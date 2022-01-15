@@ -1,3 +1,6 @@
+bingoal.be
+hellofresh.nl
+autotaalglas.nl
 googleads.g.doubleclick.net
 eastsidegames.dragrace
 topgamesinc.evony
@@ -61,3 +64,8 @@ s.invest.naga.com
 m.invest.naga.com
 s.invisalign.nl
 m.invisalign.nl
+s.autotaalglas.nl
+m.autotaalglas.nl
+s.hellofresh.nl
+m.hellofresh.nl
+m.bingoal.be
