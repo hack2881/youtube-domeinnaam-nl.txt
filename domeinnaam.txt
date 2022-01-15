@@ -22,13 +22,14 @@ www.google.com/search?q=Autotaalglas+Nijmege&ludocid=1275348803158918178&gclid=C
 specsavers.nl/aanbiedingen/dubbel-voordeel?utm_medium=video&utm_source=youtube&utm_campaign=nl_48_02_2021_feel-smart_specs-edlp_double-up-on-frames&utm_term=tana_prosp
 thinkwisesoftware.com/nl/de-thinkwise-guarantee?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=6202902242&hsa_cam=14949538981&hsa_grp=127998199906&hsa_ad=553086669514&hsa_src=ytv&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiA24SPBhB0EiwAjBgkhgKRTFlzD8PQma5uvLTEMkGY5stOPE_K7TDsi2E5YUU5bY_ZNPMlJBoCTzkQAvD_BwE
 skyradio.nl/leef-1-jaar-gratis?utm_campaign=st-lejg-sky-wk1&utm_medium=cpv&utm_source=wavemaker&utm_content=standard-20s&utm_term=zenderbreed
-www.ah.nl/shop/eetmomenten?utm_id=5_1_FoodFirst_1&utm_content=6-bumper-ad
+ah.nl/shop/eetmomenten?utm_id=5_1_FoodFirst_1&utm_content=6-bumper-ad
 m.lightinthebox.com/e/fc/0_0_SL18915
 www.podobrace.nl
 www.hollandsnieuwe.nl
 www.googleadservices.com
 www.mensenmeteenmissie.nl
 www.moonfare.com
+www.invest.naga.com
 www.disneyplus.com
 m.youtube.com
 s.youtube.com
@@ -55,3 +56,7 @@ m.skyradio.nl
 s.specsavers.nl
 m.specsavers.nl
 m.ochama.com
+s.invest.naga.com
+m.invest.naga.com
+s.youtube.com
+m.youtube.com
