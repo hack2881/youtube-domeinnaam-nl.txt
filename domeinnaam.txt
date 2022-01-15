@@ -1,9 +1,1 @@
-play.google.com/store/apps/details?id=com.Psyonix.RL2D
-play.google.com/store/apps/details?id=com.eastsidegames.dragrace&hl=nl&gl=NL
-play.google.com/store/apps/details?id=com.remitly.androidapp
-play.google.com/store/apps/details?id=com.zhiliaoapp.musically
-play.google.com/store/apps/details?id=com.Psyonix.RL2D&hl=nl&gl=NL
-play.google.com/store/apps/details?id=com.topgamesinc.evony&hl=nl&gl=NL
-play.google.com/store/apps/details?id=com.gramgames.london.pirateevolution&hl=nl&gl=NL
-play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=nl&gl=NL
-play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=nl&gl=US
+https://www.play.google.com/store/apps/details?id=com.Psyonix.RL2D
