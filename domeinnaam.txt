@@ -1,7 +1,6 @@
 googleads.g.doubleclick.net
 eastsidegames.dragrace
-topgamesinc.evony&hl
-Psyonix.RL2D&hl
+topgamesinc.evony
 Psyonix.RL2D
 gramgames.london
 remitly.androidapp
