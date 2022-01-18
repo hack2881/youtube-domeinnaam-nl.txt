@@ -13,7 +13,6 @@ static.podobrace.nl
 zeasis.com
 g2afse.com
 adverster.g2afse.com
-play.google.com
 lh3.googleusercontent.com
 play-lh.googleusercontent.com
 bingoal.be
