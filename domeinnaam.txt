@@ -125,3 +125,11 @@ s.rr1---sn-32o-1the.googlevideo.com
 m.rr1---sn-32o-1the.googlevideo.com
 s.rr1---sn-5hne6nz6.googlevideo.com
 m.rr1---sn-5hne6nz6.googlevideo.com
+s.ns1.google.com
+s.ns2.google.com
+s.ns3.google.com
+s.ns4.google.com
+m.ns1.google.com
+m.ns2.google.com
+m.ns3.google.com
+m.ns4.google.com
