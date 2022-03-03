@@ -1041,13 +1041,6 @@ redirector.googlevideo.com
 s.redirector.googlevideo.com
 m.redirector.googlevideo.com
 clientservices.googleapis.com
-clients.google.com
-clients1.google.com
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
 s.clients.google.com
 s.clients1.google.com
 s.clients2.google.com
