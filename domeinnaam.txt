@@ -1062,12 +1062,6 @@ m.clients3.google.com
 m.clients4.google.com
 m.clients5.google.com
 m.clients6.google.com
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-lh3.googleusercontent.com
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
 s.lh1.googleusercontent.com
 s.lh2.googleusercontent.com
 s.lh3.googleusercontent.com
