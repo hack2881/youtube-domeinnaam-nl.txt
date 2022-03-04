@@ -69,3 +69,5 @@ m.app-meting.com
 tpc.googlesyndication.com
 ad.doubleclick.net
 ade.googlesyndication.com
+static.doubleclick.net
+googleads.g.doubleclick.net
