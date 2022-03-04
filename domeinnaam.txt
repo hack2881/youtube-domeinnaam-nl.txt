@@ -1,4 +1,5 @@
 [ff00::]
+ff00::
 encrypted-tbn0.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
@@ -71,3 +72,11 @@ ad.doubleclick.net
 ade.googlesyndication.com
 static.doubleclick.net
 googleads.g.doubleclick.net
+fonts.gstatic.com
+pagead2.googlesyndication.com
+i.ytimg.com
+yt3.ggpht.com
+yt4.ggpht.com
+jnn-pa.googleapis.com
+i1.ytimg.com
+www.googleadservices.com
