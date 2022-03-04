@@ -1094,8 +1094,6 @@ m.googleusercontent.com
 googleads.g.doubleclick.net
 s.googleads.g.doubleclick.net
 m.googleads.g.doubleclick.net
-s.play.google.com
-m.play.google.com
 jnn-pa.googleapis.com
 s.jnn-pa.googleapis.com
 m.jnn-pa.googleapis.com
