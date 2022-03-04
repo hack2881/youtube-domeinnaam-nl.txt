@@ -1,3 +1,7 @@
+[ff00::]
+encrypted-tbn0.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
 r1---sn-5hnedn7l.googlevideo.com
 r2---sn-5hnedn7l.googlevideo.com
 r3---sn-5hnedn7l.googlevideo.com
