@@ -1056,8 +1056,6 @@ google.comgoogle.com
 s.google.comgoogle.com
 m.google.comgoogle.com
 googlecommerce.com
-s.googleplay.com
-m.googleplay.com
 s.youtube.com
 m.youtube.com
 play-fe.googleapis.com
@@ -1123,8 +1121,6 @@ s.hellofresh.nl
 m.hellofresh.nl
 bingoal.be
 m.bingoal.be
-s.yimg.com
-m.yimg.com
 images.ctfassets.net
 s.images.ctfassets.net
 m.images.ctfassets.net
