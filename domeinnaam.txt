@@ -66,3 +66,6 @@ m.ochama.com
 app-meting.com
 s.app-meting.com
 m.app-meting.com
+tpc.googlesyndication.com
+ad.doubleclick.net
+ade.googlesyndication.com
