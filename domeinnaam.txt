@@ -80,3 +80,4 @@ yt4.ggpht.com
 jnn-pa.googleapis.com
 i1.ytimg.com
 www.googleadservices.com
+www.gstatic.com
