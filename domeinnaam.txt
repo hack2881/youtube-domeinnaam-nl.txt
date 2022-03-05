@@ -1136,3 +1136,5 @@ googleads.g.doubleclick.net
 securepubads.g.doubleclick.net
 www.googleadservices.com
 ad.doubleclick.net
+adservice.google.com
+partner.googleadservices.com
