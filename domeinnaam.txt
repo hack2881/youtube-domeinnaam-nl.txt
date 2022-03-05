@@ -1138,3 +1138,5 @@ www.googleadservices.com
 ad.doubleclick.net
 adservice.google.com
 partner.googleadservices.com
+yt3.ggpht.com
+i.ytimg.com
