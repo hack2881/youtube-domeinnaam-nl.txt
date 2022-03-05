@@ -1142,3 +1142,5 @@ yt3.ggpht.com
 i.ytimg.com
 t1.gstatic.com
 t3.gstatic.com
+logx.optimizely.com
+pagead2.googlesyndication.com
