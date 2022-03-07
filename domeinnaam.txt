@@ -1178,3 +1178,6 @@ rdap.db.ripe.net
 ajax.googleapis.com
 adservice.google.nl
 d.adtriba.com
+abasir.com
+youradexchange.com
+dukimo.com
