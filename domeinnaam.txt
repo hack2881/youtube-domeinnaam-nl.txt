@@ -1177,3 +1177,4 @@ s7.addthis.com
 rdap.db.ripe.net
 ajax.googleapis.com
 adservice.google.nl
+d.adtriba.com
