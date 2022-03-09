@@ -1184,3 +1184,7 @@ dukimo.com
 dyncdn.me
 statsy.net
 imagecurl.com
+suggestqueries-clients6.youtube.com
+ssl.gstatic.com
+clients.l.google.com
+photos-ugc.l.googleusercontent.com
