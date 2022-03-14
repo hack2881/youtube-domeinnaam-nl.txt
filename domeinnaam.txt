@@ -5,9 +5,11 @@ suggestqueries.google.com
 clients4.google.com
 www.googleadservices.com
 ade.googlesyndication.com
-chat-e2ee-mini.facebook.com
-b-graph.facebook.com
-graph.facebook.com
-api.facebook.com
 safebrowsing.google.com
 accounts.google.com
+api.retailrocket.net
+tracking.retailrocket.net
+cdn.retailrocket.net
+bat.bing.com
+www.dwin1.com
+www.podobrace.nl
