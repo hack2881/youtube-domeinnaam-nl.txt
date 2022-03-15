@@ -13,3 +13,11 @@ cdn.retailrocket.net
 bat.bing.com
 www.dwin1.com
 www.podobrace.nl
+cdn.1337x.to
+d2ers4gi7coxau.cloudfront.net
+esmystem.com
+s3.us-east-1.amazonaws.com
+tedmonastyd.com
+d22ffr6srkd9zx.cloudfront.net
+montikolti.com
+tobleronchiko.com
