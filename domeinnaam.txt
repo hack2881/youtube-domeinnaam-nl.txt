@@ -21,3 +21,9 @@ tedmonastyd.com
 d22ffr6srkd9zx.cloudfront.net
 montikolti.com
 tobleronchiko.com
+cdnjs.cloudflare.com
+cdn.jsdelivr.net
+code.jquery.com
+chat.hippochat.io
+widget.hippochat.io
+hawcdn.ec2dashboard.com
