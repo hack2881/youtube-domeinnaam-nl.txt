@@ -27,3 +27,8 @@ code.jquery.com
 chat.hippochat.io
 widget.hippochat.io
 hawcdn.ec2dashboard.com
+rawgit.com
+hippo-api.fuguchat.com
+www.flaticon.com
+maxcdn.bootstrapcdn.com
+prd.jwpltx.com
