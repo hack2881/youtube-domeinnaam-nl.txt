@@ -34,3 +34,9 @@ maxcdn.bootstrapcdn.com
 prd.jwpltx.com
 ssl.p.jwpcdn.com
 www.gstatic.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
