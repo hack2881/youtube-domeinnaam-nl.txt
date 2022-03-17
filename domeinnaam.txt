@@ -32,3 +32,5 @@ hippo-api.fuguchat.com
 www.flaticon.com
 maxcdn.bootstrapcdn.com
 prd.jwpltx.com
+ssl.p.jwpcdn.com
+www.gstatic.com
