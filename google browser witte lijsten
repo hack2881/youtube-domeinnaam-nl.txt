@@ -14,3 +14,16 @@ apis.google.com
 ogs.google.com
 scone-pa.clients6.google.com
 ssl.gstatic.com
+@@||prd.jwpltx.com^$important
+@@||ssl.p.jwpcdn.com^$important
+@@||www.gstatic.com^$important
+@@||app-measurement.com^$important
+@@||youtubei.googleapis.com^$client='192.168.1.128'
+@@||redirector.googlevideo.com^$client='192.168.1.128'
+@@||suggestqueries.google.com^$client='192.168.1.128'
+@@||suggestqueries.google.com^$important
+@@||api.monedata.io^$important
+@@||parse.pinkfire.pw^$important
+@@||s.youtube.com^$important
+@@||ssl.google-analytics.com^$important
+@@||clients2.google.com^$important
