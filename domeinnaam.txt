@@ -115,3 +115,11 @@ google.rs
 google.ru
 google.se
 google.tn
+r3---sn-5hnednss.googlevideo.com
+r5---sn-5hnednss.googlevideo.com
+r1---sn-5hne6nzk.googlevideo.com
+r2---sn-5hnekn76.googlevideo.com
+r2---sn-5hne6nsz.googlevideo.com
+r4---sn-5hnekn7d.googlevideo.com
+r3---sn-5hne6nzs.googlevideo.com
+r4---sn-5hne6nsy.googlevideo.com
