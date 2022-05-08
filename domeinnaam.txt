@@ -126,7 +126,8 @@ r16---sn-5hne6nsy.googlevideo.com
 r17---sn-5hne6nsy.googlevideo.com
 r18---sn-5hne6nsy.googlevideo.com
 r19---sn-5hne6nsy.googlevideo.com
-r20---sn-5hne6nsy.googlevideo.cor1---sn-5hne6nzs.googlevideo.com
+r20---sn-5hne6nsy.googlevideo.com
+r1---sn-5hne6nzs.googlevideo.com
 r2---sn-5hne6nzs.googlevideo.com
 r3---sn-5hne6nzs.googlevideo.com
 r4---sn-5hne6nzs.googlevideo.com
