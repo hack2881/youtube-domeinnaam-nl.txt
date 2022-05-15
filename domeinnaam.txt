@@ -1129,3 +1129,5 @@ r19---sn-4g5ednsz.googlevideo.com
 r20---sn-4g5ednsz.googlevideo.com
 s.jacks.nl
 m.jacks.nl
+s.betcity.nl
+m.betcity.nl
