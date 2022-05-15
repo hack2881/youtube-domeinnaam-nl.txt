@@ -1127,3 +1127,5 @@ r17---sn-4g5ednsz.googlevideo.com
 r18---sn-4g5ednsz.googlevideo.com
 r19---sn-4g5ednsz.googlevideo.com
 r20---sn-4g5ednsz.googlevideo.com
+s.jacks.nl
+m.jacks.nl
