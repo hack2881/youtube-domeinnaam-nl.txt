@@ -1131,3 +1131,5 @@ s.jacks.nl
 m.jacks.nl
 s.betcity.nl
 m.betcity.nl
+s.coolblue.nl
+m.coolblue.nl
