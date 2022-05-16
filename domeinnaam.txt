@@ -63,8 +63,10 @@ lh4.googleusercontent.com
 lh3.googleusercontent.com
 lh2.googleusercontent.com
 lh1.googleusercontent.com
+jacks.nl
 s.jacks.nl
 m.jacks.nl
+betcity.nl
 s.betcity.nl
 m.betcity.nl
 s.coolblue.nl
@@ -73,6 +75,12 @@ s.click.aliexpress.com
 m.click.aliexpress.com
 s.youtube.com
 m.youtube.com
+s.kansino.nl
+m.kansino.nl
+s.ah.nl
+m.ah.nl
+s.brouwerijwinkel.hertogjan.nl
+m.brouwerijwinkel.hertogjan.nl
 google.at
 google.be
 google.ca
