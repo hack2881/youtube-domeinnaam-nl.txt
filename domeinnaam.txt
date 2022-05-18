@@ -1501,3 +1501,5 @@ s.liga.nl
 m.liga.nl
 s.mytools.management
 m.mytools.management
+s.specsavers.nl
+m.specsavers.nl
