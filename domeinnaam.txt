@@ -29,3 +29,10 @@ s.googleads.g.doubleclick.ne
 m.googleads.g.doubleclick.ne
 s.doubleclick.ne
 m.doubleclick.ne
+ns-1244.awsdns-27.orgns-1712.awsdns-22.co.uk
+ns-89.awsdns-11.com
+ns-934.awsdns-52.net
+server-108-139-1-73.sfo5.r.cloudfront.net
+server-108-139-1-77.sfo5.r.cloudfront.net
+server-108-139-1-13.sfo5.r.cloudfront.net
+server-108-139-1-43.sfo5.r.cloudfront.net
