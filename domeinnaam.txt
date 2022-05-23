@@ -36,3 +36,6 @@ server-108-139-1-73.sfo5.r.cloudfront.net
 server-108-139-1-77.sfo5.r.cloudfront.net
 server-108-139-1-13.sfo5.r.cloudfront.net
 server-108-139-1-43.sfo5.r.cloudfront.net
+sfo03s21-in-f2.1e100.net
+s.googleads.g.doubleclick.net
+m.googleads.g.doubleclick.net
