@@ -1449,3 +1449,9 @@ ns3-09.xamarin.university.msft.info
 ns3-09.xbox.live.msft.info
 ns4-09.azure-dns.info
 ns4-09.dns.shelterbelt.net
+dd-in-f139.1e100.net
+dd-in-f102.1e100.net
+dd-in-f138.1e100.net
+dd-in-f100.1e100.net
+dd-in-f113.1e100.net
+dd-in-f101.1e100.net
