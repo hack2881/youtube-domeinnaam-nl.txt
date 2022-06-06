@@ -1633,3 +1633,8 @@ ns1.aredir.com
 ns1.euresearch.org
 guss.ns.cloudflare.com
 ns1.hellocasa.org
+dart.l.doubleclick.net
+s.dart.l.doubleclick.net
+m.dart.l.doubleclick.net
+ams15s42-in-f6.1e100.net
+N5295.127733GOOGLE-YOUTUBE
