@@ -1627,3 +1627,9 @@ abraca.org
 derrichter.de
 legaltodo.com
 motoringnostalgia.com
+kami.ns.cloudflare.com
+guss.ns.cloudflare.com
+ns1.aredir.com
+ns1.euresearch.org
+guss.ns.cloudflare.com
+ns1.hellocasa.org
