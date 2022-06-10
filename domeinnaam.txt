@@ -1814,3 +1814,11 @@ ns3-09.xbox.live.msft.info
 ns4-09.azure-dns.info
 ns4-09.dns.shelterbelt.net
 ip-space.by.proserve.nl
+mafcms.com
+maghrebvoices.com
+mailchimp.cn
+mailchimp.us
+pelesoccer.com
+persagg.com
+a184-28-219-18.deploy.static.akamaitechnologies.com
+kiadealers.com
