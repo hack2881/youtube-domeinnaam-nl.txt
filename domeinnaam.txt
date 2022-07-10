@@ -2179,3 +2179,8 @@ ns3.gencat.net
 ns4ak.dell.com
 ns6.kakao.bank
 a3-66.akam.net
+draw-sharp-female.com
+skr388.com
+deskfirst.com
+vastur.com
+alan.ns.cloudflare.com
