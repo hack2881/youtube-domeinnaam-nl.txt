@@ -2202,3 +2202,5 @@ dora.ns.cloudflare.com
 dora.ns.cloudflare.com.linuxdo.org
 pankajray.com
 dora.ns.cloudflare.com
+https://play.google.com/store/apps/dev?id=5766366711041032164&hl=nl&gl=NL
+https://play.google.com/store/apps/details?id=net.ilius.android.lexa&hl=nl&gl=NL
