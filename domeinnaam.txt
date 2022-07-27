@@ -2229,3 +2229,5 @@ https://m.youtube.com/premiumlite
 https://www.youtube.com/premium?app=desktops.coolblue.nl
 s.coolblue.nl
 m.coolblue.nl
+s.simyo.nl
+m.simyo.nl
