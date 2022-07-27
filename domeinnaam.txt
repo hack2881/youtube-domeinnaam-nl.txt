@@ -2226,4 +2226,6 @@ m.renault.nl
 https://www.youtube.com/premiumlite
 https://play.google.com/store/apps/details?id=com.audible.application&hl=nl&gl=NL
 https://m.youtube.com/premiumlite
-https://www.youtube.com/premium?app=desktop
+https://www.youtube.com/premium?app=desktops.coolblue.nl
+s.coolblue.nl
+m.coolblue.nl
