@@ -2231,3 +2231,5 @@ s.coolblue.nl
 m.coolblue.nl
 s.simyo.nl
 m.simyo.nl
+s.aldi.nl
+m.aldi.nl
