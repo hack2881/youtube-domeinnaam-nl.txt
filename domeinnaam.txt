@@ -2244,3 +2244,17 @@ https://nl.myprotein.com/partnerships/jelly-belly.list
 s.nl.myprotein.com
 m.nl.myprotein.com
 www.youtube-nocookie.com
+fitbit.com
+ns1.marketo.com
+ns2.mktdns.com
+ns-1269.awsdns-30.org
+ns-1907.awsdns-46.co.uk
+ns-466.awsdns-58.com
+ns-527.awsdns-01.net
+163.131.117.34.bc.googleusercontent.com
+s.ziggo.nl
+m.ziggo.nl
+ns1.upc.biz
+ns2.upc.biz
+ns3.upc.biz
+sales.upc-cablecom.ch
