@@ -2677,3 +2677,11 @@ t.solaranalytics.org
 mytools.management
 go.xlivrdr.com
 paychat.fuse-cloud.com
+googlevideo.com
+youtube.be
+youtube-nocookie.com
+youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
+ytimg.com
+ytimg.l.google.com
