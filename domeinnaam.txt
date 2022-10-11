@@ -2685,3 +2685,8 @@ youtube.googleapis.com
 youtubei.googleapis.com
 ytimg.com
 ytimg.l.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
