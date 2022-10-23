@@ -2807,3 +2807,15 @@ r6---sn-x1x7snz7.googlevideo.com
 r8---sn-8pgbpohxqp5-aig6.googlevideo.com
 r9---sn-o097znez.googlevideo.com
 rr4---sn-32o-1de
+r1---sn-5hnekn7z.googlevideo.com
+r1---sn-huoob-5cce.googlevideo.com
+r16---sn-a5m7lne6.googlevideo.com
+r2---sn-5fo-0u2e.googlevideo.com
+r2---sn-uxaxh5g-5w0l.googlevideo.com
+r3---sn-a5mlrn7z.googlevideo.com
+r3---sn-w5nuxa-33jz.googlevideo.com
+r4---sn-gvnuxaxjvh-3w5e.googlevideo.com
+r4---sn-vg5obxn3-cunl.googlevideo.com
+r6---sn-i5q5g5-1qhl.googlevideo.com
+r9---sn-ntq7yn7r.googlevideo.com
+r1---sn-5hnekn7z
