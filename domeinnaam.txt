@@ -104,3 +104,10 @@ ru.youtube.com
 ||https://www.disneyplus.com/nl-nl?cid=DSS-ProgVideo-DBM-27595332-343300064-535132044-176503752&gclid=Cj0KCQiApb2bBhDYARIsAChHC9t0f1AWGCtJyOUQKkEysdugAmWzobrwSX_l77AJ1bJTjI9euFOVsUoaAnZqEALw_wcB^$important
 ||https://ad.doubleclick.net/ddm/clk/540711727;349033439;h;u=ds&sv1=73755512438&sv2=3336589594363598&sv3=5838644364780151667&gclid=Cj0KCQiApb2bBhDYARIsAChHC9sL8DJsFWYpH5PXMShlJKfivFWTBnXVrZD98BjiyvJKLpdDg-iP230aAnEQEALw_wcB;%3f^$important
 ||https://www.skyshowtime.com/nl?lid=wycodr8y54th&Market=NL&LoB=SST&Channel=SEA&Platform=GAD&Mobj=MULTI&Campaign_Name=Launch&Campaign_ID=NA&Placement_ID=NA&Creative_ID=NA&gclid=Cj0KCQiApb2bBhDYARIsAChHC9sL8DJsFWYpH5PXMShlJKfivFWTBnXVrZD98BjiyvJKLpdDg-iP230aAnEQEALw_wcB&gclsrc=aw.ds^$important
+||https://afspraak.nl/lp/ass-btn/?s1=1791nl&s2=SmartDisplay&s3=Display&s4=&tracking_id=EAIaIQobChMInOPiju2p-wIVSEnCCh3uVA5SEAEYASAAEgJ4R_D_BwE^$important
+||https://www.woonsquare.nl/actie?gclid=Cj0KCQiApb2bBhDYARIsAChHC9sFh6YHt12CdU1mcAsAz9F5kv__T55prvsv3CKUDFJltn7Cp6jHjWsaAnmEEALw_wcB^$important
+||https://www.google.com/search?q=Shell&ludocid=12754573900558104686&ibp=gwp;0,7&gclid=Cj0KCQiApb2bBhDYARIsAChHC9txOOiw-ufKq-9F6yhsmYo64Qh2Yko0WCs-bZGJRrdvMwutH6y-wiMaAr_YEALw_wcB#lpg=cid:CgIgAQ%3D%3D^$important
+||https://www.mrsushi.nl/?gclid=EAIaIQobChMIuJSf7u2p-wIVwxEYCh0angbuEAEYASAAEgJZjPD_BwE^$important
+||https://elyseklinieken.nl/vacatures/?gclid=Cj0KCQiApb2bBhDYARIsAChHC9sCdfH-8H8PTPKxwlf0inN8LOrhPQ1eJ5DPtfi-UNeDe9Nv_FlhM_EaAlLlEALw_wcB^$important
+||https://www.ladyline.nl/nukiesikvoormijzelf/?utm_source=google-ads&utm_campaign=&utm_agid=141190385516&utm_term=&creative=633927009744&device=m&placement=www.youtube.com&gclid=EAIaIQobChMI7vH_q-6p-wIVS4mDBx3qZAvzEAEYASAAEgIYJfD_BwE^$important
+||https://www.disneyplus.com/nl-nl?cid=DSS-ProgVideo-DBM-27595332-343300064-535132044-176503752&gclid=Cj0KCQiApb2bBhDYARIsAChHC9vKM5dk9VNSQD0FmJVlOah7XJn7igp-QFrIQeZRpQt1J4gjsce35X4aArazEALw_wcB^$important
