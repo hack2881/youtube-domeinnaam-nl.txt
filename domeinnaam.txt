@@ -1,3 +1,5 @@
+m.monitor.clickcease.com
+s.monitor.clickcease.com
 m.hensgensmobiliteitsgroep.nl
 s.hensgensmobiliteitsgroep.nl
 m.xxldirect.nl
