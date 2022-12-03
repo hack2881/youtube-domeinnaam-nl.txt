@@ -1,3 +1,7 @@
+||s.cadeaubon.nl^$important
+||m.cadeaubon.nl^$important
+||s.simpel.nl^$important
+||m.simpel.nl^$important
 m.netflix.com
 s.netflix.com
 m.ziggo.nl
