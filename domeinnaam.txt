@@ -1,3 +1,5 @@
+||s.hellofresh.nl^$important
+||m.hellofresh.nl^$important
 ||s.ah.nl^$important
 ||m.ah.nl^$important
 ||s.cadeaubon.nl^$important
