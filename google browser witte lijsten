@@ -66,3 +66,7 @@
 @@||img.ltwebstatic.com^$important
 @@||count.shein.com^$important
 @@||sheinsz.ltwebstatic.com^$important
+@@||edge-mqtt.facebook.com^$important
+@@||graph.facebook.com^$important
+@@||gateway.facebook.com^$important
+@@||events.gfe.nvidia.com^$important
