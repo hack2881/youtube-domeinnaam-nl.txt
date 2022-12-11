@@ -132,3 +132,4 @@ m.youtube.com
 nz.youtube.com
 p.youtube.com
 ru.youtube.com
+||youtu.be^
