@@ -78,3 +78,7 @@
 @@||sanalytics.disneyplus.com^$important
 @@||disney.demdex.net^$important
 @@||disney.my.sentry.io^$important
+@@||ns1.google.com^/REGEX/
+@@||ns2.google.com^/REGEX/
+@@||ns3.google.com^/REGEX/
+@@||ns4.google.com^/REGEX/
