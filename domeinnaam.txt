@@ -1,3 +1,5 @@
+||youtube-ui.l.google.com^
+||Youtube-ui.l.google.com^
 ||ns1.google.com^
 ||ns2.google.com^
 ||ns3.google.com^
