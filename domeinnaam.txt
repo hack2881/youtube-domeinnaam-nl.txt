@@ -1,3 +1,4 @@
+||https://www.youtube.com/^
 ||s.youtube.com^
 ||m.youtube.com^
 ||s.youtube.nl^
