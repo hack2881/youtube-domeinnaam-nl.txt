@@ -17,6 +17,8 @@
 @@||firebaseremoteconfig.googleapis.com^$important
 @@||s.youtube.com^/REGEX/
 @@||m.youtube.com^/REGEX/
+@@||s.youtu.be^/REGEX/
+@@||m.youtu.be^/REGEX/
 @@||ssl.google-analytics.com^$important
 @@||lh6.googleusercontent.com^$important
 @@||metrics2.data.hicloud.com^$important
