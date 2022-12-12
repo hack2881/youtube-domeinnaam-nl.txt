@@ -16,6 +16,7 @@
 @@||parse.pinkfire.pw^$important
 @@||firebaseremoteconfig.googleapis.com^$important
 @@||s.youtube.com^/REGEX/
+@@||m.youtube.com^/REGEX/
 @@||ssl.google-analytics.com^$important
 @@||lh6.googleusercontent.com^$important
 @@||metrics2.data.hicloud.com^$important
