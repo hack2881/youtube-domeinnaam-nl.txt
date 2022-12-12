@@ -19,6 +19,7 @@
 @@||m.youtube.com^/REGEX/
 @@||s.youtu.be^/REGEX/
 @@||m.youtu.be^/REGEX/
+@@||https://www.youtube.com^/REGEX/
 @@||ssl.google-analytics.com^$important
 @@||lh6.googleusercontent.com^$important
 @@||metrics2.data.hicloud.com^$important
