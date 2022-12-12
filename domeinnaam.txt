@@ -1,3 +1,5 @@
+||s.youtube.com^
+||m.youtube.com^
 ||s.youtube.nl^
 ||m.youtube.nl^
 ||s.delonghi.com^
