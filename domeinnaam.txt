@@ -1,3 +1,5 @@
+||s.delonghi.com^
+||m.delonghi.com^
 ||s.polestar.com^
 ||m.polestar.com^
 ||s.youtu.be^
