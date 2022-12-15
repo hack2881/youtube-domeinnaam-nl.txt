@@ -1,4 +1,4 @@
-||ads.youtube.com^
+||ads.youtube.com^$all
 ||youtube-ui.l.google.com^
 ||Youtube-ui.l.google.com^
 ||ns1.google.com^
