@@ -31,3 +31,7 @@
 ||clients4.google.com^$important
 ||clients5.google.com^$important
 ||clients6.google.com^$important
+||ns1.google.com^$important
+||ns2.google.com^$important
+||ns3.google.com^$important
+||ns4.google.com^$important
