@@ -25,3 +25,9 @@
 ||s.yimg.com^$important
 ||youtubei.googleapis.com^$important
 ||ajax.googleapis.com^$important
+||clients1.google.com^$important
+||clients2.google.com^$important
+||clients3.google.com^$important
+||clients4.google.com^$important
+||clients5.google.com^$important
+||clients6.google.com^$important
