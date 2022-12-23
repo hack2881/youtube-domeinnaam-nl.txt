@@ -155,3 +155,13 @@
 ||r3---sn-5hne6n6e.googlevideo.com^$important
 ||r4---sn-5hne6n6e.googlevideo.com^$important
 ||r5---sn-5hne6n6e.googlevideo.com^$important
+||rr1---sn-5hne6nsz.googlevideo.com^$important
+||rr2---sn-5hne6nsz.googlevideo.com^$important
+||rr3---sn-5hne6nsz.googlevideo.com^$important
+||rr4---sn-5hne6nsz.googlevideo.com^$important
+||rr5---sn-5hne6nsz.googlevideo.com^$important
+||r1---sn-5hne6nsz.googlevideo.com^$important
+||r2---sn-5hne6nsz.googlevideo.com^$important
+||r3---sn-5hne6nsz.googlevideo.com^$important
+||r4---sn-5hne6nsz.googlevideo.com^$important
+||r5---sn-5hne6nsz.googlevideo.com^$important
