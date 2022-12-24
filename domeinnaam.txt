@@ -23,6 +23,10 @@
 ||https://i.ytimg.com^$important
 ||https://ad.doubleclick.net^$important
 ||s.yimg.com^$important
+||googlevideo.com^$important
+||youtube-nocookie.com^$important
+||youtube.com^$important
+||ytimg.com^$important
 ||youtubei.googleapis.com^$important
 ||ajax.googleapis.com^$important
 ||clients1.google.com^$important
