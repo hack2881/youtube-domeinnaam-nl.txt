@@ -1,3 +1,14 @@
+||lh1.googleusercontent.com^$important
+||lh2.googleusercontent.com^$important
+||lh3.googleusercontent.com^$important
+||lh4.googleusercontent.com^$important
+||lh5.googleusercontent.com^$important
+||lh6.googleusercontent.com^$important
+||rr1---sn-32o-1the.gvt1.com^$important
+||rr2---sn-32o-1the.gvt1.com^$important
+||rr3---sn-32o-1the.gvt1.com^$important
+||rr4---sn-32o-1the.gvt1.com^$important
+||rr5---sn-32o-1the.gvt1.com^$important
 ||rr5---sn-32o-1the.googlevideo.com^$important
 ||rr4---sn-32o-1the.googlevideo.com^$important
 ||rr3---sn-32o-1the.googlevideo.com^$important
@@ -23,6 +34,12 @@
 ||https://i.ytimg.com^$important
 ||https://ad.doubleclick.net^$important
 ||s.yimg.com^$important
+||s.youtube.com^$important
+||m.youtube.com^$important
+||i.ytimg.com^$important
+||www.youtube.com^$important
+||mail.google.com^$important
+||redirector.googlevideo.com^$important
 ||googlevideo.com^$important
 ||youtube-nocookie.com^$important
 ||youtube.com^$important
