@@ -457,3 +457,7 @@ rr5---sn-5hnednsz.googlevideo.com
 rr5---sn-5hnekn7d.googlevideo.com
 rr5---sn-5hne6nsz.googlevideo.com
 tpc.googlesyndication.com
+r3---sn-aigl6nzl.googlevideo.com
+rr4---sn-5abxgpxuxaxjvh-j43e.gvt1.com
+r5---sn-aigl6nzs.googlevideo.com
+r6---r2---sn-8xgp1vo-nh4e.a1.googlevideo.com
