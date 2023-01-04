@@ -456,6 +456,10 @@ rr5---sn-5hne6nzy.googlevideo.com
 rr5---sn-5hnednsz.googlevideo.com
 rr5---sn-5hnekn7d.googlevideo.com
 rr5---sn-5hne6nsz.googlevideo.com
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
 tpc.googlesyndication.com
 r3---sn-aigl6nzl.googlevideo.com
 rr4---sn-5abxgpxuxaxjvh-j43e.gvt1.com
