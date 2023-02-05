@@ -98,3 +98,7 @@
 ||r4---sn-w5nuxa-c33ed.gvt1.com^
 ||r7---sn-0opoxu-j0os.gvt1.com^
 ||r9---sn-ni57rn7s.gvt1.com^
+||encrypted-tbn0.gstatic.com^
+||encrypted-tbn1.gstatic.com^
+||encrypted-tbn2.gstatic.com^
+||encrypted-tbn3.gstatic.com^
