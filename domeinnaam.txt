@@ -1,3 +1,5 @@
+||stats.g.doubleclick.net^
+||googleads.g.doubleclick.net^
 ||ad.doubleclick.net^
 ||ad.doubleclick.net^
 ||ads.youtube.com^
