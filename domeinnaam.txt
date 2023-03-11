@@ -1,3 +1,7 @@
+||ad.doubleclick.net^
+||ad.doubleclick.net^
+||ads.youtube.com^
+=========================================
 ||r1---sn-nxgg5o5cg-2v5e.googlevideo.com^
 ||r11---sn-5hnedne6.googlevideo.com^
 ||r18---sn-n8v7kn76.googlevideo.com^
