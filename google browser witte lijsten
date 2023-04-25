@@ -1,3 +1,4 @@
+@@||s*youtube.com^
 @@||play-fe.googleapis.com^
 @@||play-lh.googleusercontent.com^
 @@||prd.jwpltx.com^
@@ -92,12 +93,11 @@
 @@||ms.applvn.com^
 @@||prod-ms4.applovin.com^
 @@||swa.bol.com^
-@@||googleads.g.doubleclick.net#
-@@||footprints-pa.googleapis.com#
-@@||crashlyticsreports-pa.googleapis.com#
-@@||encrypted-tbn1.gstatic.com#
-@@||stats.g.doubleclick.net#
-@@||encrypted-tbn0.gstatic.com#
-@@||encrypted-tbn1.gstatic.com#
-@@||encrypted-tbn2.gstatic.com#
-@@||encrypted-tbn3.gstatic.com#
+@@||googleads.g.doubleclick*net^
+@@||footprints-pa.googleapis.com^
+@@||crashlyticsreports-pa.googleapis.com^
+@@||stats.g.doubleclick*net
+@@||encrypted-tbn0.gstatic*com^
+@@||encrypted-tbn1.gstatic*com^
+@@||encrypted-tbn2.gstatic*com^
+@@||encrypted-tbn3.gstatic*com^
