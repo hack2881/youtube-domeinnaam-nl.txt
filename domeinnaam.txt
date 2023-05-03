@@ -1,9 +1,8 @@
-||static-images.jumbo.com^
-||stats.g.doubleclick.net^
-||googleads.g.doubleclick.net^
-||ad.doubleclick.net^
-||ad.doubleclick.net^
-||ads.youtube.com^
+||static-images.jumbo.com^*
+||stats.g.doubleclick.net^*
+||googleads.g.doubleclick.net^*
+||ad.doubleclick.net^*
+||ads.youtube.com^*
 =========================================
 ||r1---sn-nxgg5o5cg-2v5e.googlevideo.com^
 ||r11---sn-5hnedne6.googlevideo.com^
