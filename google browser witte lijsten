@@ -103,3 +103,7 @@
 @@||encrypted-tbn3.gstatic.*com^
 @@||www.google.*com^
 @@||github.com^*
+@@||static.cloudflareinsights*.com^
+@@||cloudflare*.com^
+@@||www.youtube.com^!
+@@||open.oneplus*.net^
