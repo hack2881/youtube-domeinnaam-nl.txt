@@ -1,3 +1,4 @@
+@@||m.youtube.com!
 @@||s.youtube.com!
 @@||play-fe.googleapis.com!
 @@||play-lh.googleusercontent.com!
@@ -101,8 +102,9 @@
 @@||encrypted-tbn2.gstatic.*com^
 @@||encrypted-tbn3.gstatic.*com^
 @@||www.google.com!
-@@||github*.com^
-@@||static.cloudflareinsights*.com^
-@@||cloudflare*.com^
+@@||github*.*com^
+@@||static*.*cloudflareinsights.com^
+@@||clientservices*.*googleapis.com^
+@@||cloudflare*.*com^
 @@||www.youtube.com!
 @@||open.oneplus.net!
