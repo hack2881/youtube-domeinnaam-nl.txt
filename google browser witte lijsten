@@ -108,5 +108,5 @@
 @@||cloudflare*.*com^
 @@|www.youtube.com!
 @@|open.oneplus.net!
-@@|youtubei.googleapis.com!
-@@|instantmessaging-pa.googleapis.com!
+@@/youtubei.googleapis.*/com!
+@@/instantmessaging-pa.googleapis.*/com!
