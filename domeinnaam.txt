@@ -817,3 +817,7 @@
 ||r4---sn-5hnednss*.googlevideo.com^
 ||r5---sn-5hnednss*.googlevideo.com^
 ====================================
+||/growth-pa.googleapis.*/com^
+||/youtubei.googleapis.*/com^
+||/instantmessaging-pa.googleapis.*/com^
+||/gstatic.*/com^
