@@ -823,6 +823,7 @@
 /sfo03s26-in-f14*.*1e100.net.*/
 /sfo03s25-in-f2*.*1e100.net.*/
 /nuq04s43-in-f2*.*1e100.net.*/
+/nuq04s45-in-f14*.*1e100.net.*/
 /doubleclick*.*agency.*/
 /doubleclick*.*net.*/
 /doubleclick*.*am.*/
