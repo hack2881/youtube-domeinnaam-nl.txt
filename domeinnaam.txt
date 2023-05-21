@@ -818,7 +818,7 @@
 ====================================
 /growth-pa*.*googleapis.com.*/
 /youtubei*.*googleapis.com.*/
-/instantmessaging-pa.googleapis.com.*/
+/instantmessaging-pa*.*googleapis.com.*/
 /gstatic*.*com.*/
 /sfo03s26-in-f14*.*1e100.net.*/
 /sfo03s25-in-f2*.*1e100.net.*/
