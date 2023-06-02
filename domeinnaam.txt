@@ -1,4 +1,4 @@
-||g*.*doubleclick*.*net^
+||g.doubleclick*.*net^
 ||adservice.google.com^
 ||adservice.google.nl^
 ||adservice.google.cg^
