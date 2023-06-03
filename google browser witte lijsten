@@ -122,3 +122,11 @@
 @@||www.google*.*com^|
 @@/phncdn*.*com*/
 @@/pornhub*.*com*/
+@@||www*.*dropbox*.*com^
+@@||imgur*.*com^
+@@||discover-pa*.*googleapis*.*com^
+@@||lh3*.*googleusercontent*.*com^
+@@||fonts*.*gstatic*.*com^
+@@||www*.*speedtest*.*net^
+@@||lh6*.*googleusercontent*.*com^
+@@||android.googleapis.com^|
