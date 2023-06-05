@@ -1,3 +1,10 @@
+@@/accounts*.*google*.*com*/
+@@/docs*.*google*.*com*/
+@@/drive*.*google*.*com*/
+@@/play*.*google*.*com*/
+@@/script*.*google*.*com*/
+@@/sites*.*google*.*com*/
+@@/storage*.*cloud*.*google.com*/
 @@||m.youtube.com^|
 @@||s.youtube.com^|
 @@||play-fe.googleapis.com^|
