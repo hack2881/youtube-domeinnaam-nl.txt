@@ -1,7 +1,6 @@
 @@/accounts*.*google*.*com*/
 @@/docs*.*google*.*com*/
 @@/drive*.*google*.*com*/
-@@/play*.*google*.*com*/
 @@/script*.*google*.*com*/
 @@/sites*.*google*.*com*/
 @@/storage*.*cloud*.*google.com*/
@@ -13,8 +12,6 @@
 @@||ssl.p.jwpcdn.com^|
 @@||app-measurement.com^|
 @@||cdn.registerdisney.go.com^|
-@@||redirector.googlevideo.com^|
-@@||suggestqueries.google.com^|
 @@||id.google.com^|
 @@||olcfg.1plus.io^|
 @@||api.monedata.io^|
@@ -98,10 +95,8 @@
 @@||ms.applvn.com^|
 @@||prod-ms4.applovin.com^|
 @@/swa*.*bol*.*com.*/
-@@||googleads.g.doubleclick.*net^|
 @@||footprints-pa*.*googleapis*.*com^|
 @@||crashlyticsreports-pa*.*googleapis*.*com^|
-@@/stats*.*g*.*doubleclick*.*net*/
 @@/github*.*com*/
 @@/static*.*cloudflareinsights*.*com*/
 @@||clientservices*.*googleapis*.*com^|
