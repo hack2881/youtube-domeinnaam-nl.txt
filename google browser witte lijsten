@@ -103,7 +103,6 @@
 @@/cloudflare*.*com*/
 @@||open.oneplus.net^|
 @@/oauth*.*reddit*.*com.*/
-@@/youtubei*.*googleapis*.*com.*/
 @@/instantmessaging-pa*.*googleapis*.*com.*/
 @@/https://www*.*youtube*.*com.*/
 @@/www*.*youtube*.*com.*/
