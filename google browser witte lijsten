@@ -104,13 +104,11 @@
 @@||open.oneplus.net^|
 @@/oauth*.*reddit*.*com.*/
 @@/instantmessaging-pa*.*googleapis*.*com.*/
-@@/https://www*.*youtube*.*com.*/
-@@/www*.*youtube*.*com.*/
 @@/oauth*.*reddit*.*com.*/
 @@/remotedesktop*.*google*.*com.*/
 @@/xtrapath1*.*izatcloud*.*net.*/
 @@/s*.*orbsrv*.*com.*/
-@@||www*.*google*.*com^|
+@@/www*.*google*.*com*/
 @@/phncdn*.*com*/
 @@/pornhub*.*com*/
 @@||www*.*dropbox*.*com^
@@ -133,3 +131,7 @@
 @@/chrome*.*google*.*com*/
 @@/drive-thirdparty*.*googleusercontent*.*com*/
 @@/encrypted-tbn0*.*gstatic*.*com*/
+@@/encrypted-tbn1*.*gstatic*.*com*/
+@@/encrypted-tbn2*.*gstatic*.*com*/
+@@/encrypted-tbn3*.*gstatic*.*com*/
+@@|play.googleapis.com^
