@@ -133,3 +133,4 @@
 @@/encrypted-tbn2*.*gstatic*.*com*/
 @@/encrypted-tbn3*.*gstatic*.*com*/
 @@|play.googleapis.com^
+@@|youtubei.googleapis.com^
