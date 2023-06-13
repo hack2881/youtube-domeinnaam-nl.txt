@@ -984,7 +984,7 @@
 /adfox*.*yandex*.*ru.*/
 /adfstat*.*yandex*.*ru.*/
 /adm.hotjar.com.*/
-/ads-api.tiktok.com.*/
+||ads-api*.*tiktok*.*com*^
 /ads-api*.*twitter*.*com.*/
 /ads*.*pinterest*.*com.*/
 /ads*.*yahoo*.*com.*/
@@ -998,7 +998,7 @@
 /advice-ads*.*s3*.*amazonaws*.*com.*/
 /afs*.*googlesyndication*.*com.*/
 /an*.*facebook*.*com.*/
-/analytics-sg*.*tiktok*.*com.*/
+||analytics-sg*.*tiktok*.*com*^
 /analytics*.*google*.*com.*/
 /analytics*.*pinterest*.*com.*/
 /analytics*.*query*.*yahoo*.*com.*/
@@ -1090,8 +1090,7 @@
 /static*.*btloader*.*com.*/
 /googleads4.g.doubleclick.net.*/
 /cm.g.doubleclick.net.*/
-/play.googleapis.com.*/
-/play.google.com.*/
+||play*.*googleapis*.*com*^
 ||www.googleadservices.com^
 ||clientservices.googleapis.com^
 ||meetings.googleapis.com^
