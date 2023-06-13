@@ -4,8 +4,6 @@
 @@/script*.*google*.*com*/
 @@/sites*.*google*.*com*/
 @@/storage*.*cloud*.*google.com*/
-@@||m.youtube.com^|
-@@||s.youtube.com^|
 @@||play-fe.googleapis.com^|
 @@||play-lh.googleusercontent.com^|
 @@||prd.jwpltx.com^|
@@ -108,7 +106,6 @@
 @@/remotedesktop*.*google*.*com.*/
 @@/xtrapath1*.*izatcloud*.*net.*/
 @@/s*.*orbsrv*.*com.*/
-@@/www*.*google*.*com*/
 @@/phncdn*.*com*/
 @@/pornhub*.*com*/
 @@||www*.*dropbox*.*com^
