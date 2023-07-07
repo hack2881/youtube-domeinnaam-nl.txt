@@ -17,7 +17,6 @@
 @@/firebaseremoteconfig*.*googleapis*.*com*/
 @@/ssl*.*google-analytics*.*com*/
 @@/metrics2*.*data*.*hicloud*.*com*/
-@@/aa*.*google*.*com*/
 @@/apis*.*google*.*com*/
 @@/ogs*.*google*.*com*/
 @@/docs*.*google*.*com*/
@@ -130,4 +129,3 @@
 @@/encrypted-tbn3*.*gstatic*.*com*/
 @@/play*.*googleapis*.*com*/
 @@/youtubei*.*googleapis*.*com*/
-@@/l*.*google*.*com*/
