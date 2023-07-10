@@ -132,3 +132,4 @@
 #l.google.com^
 #www.google.com^
 #google.com^
+@@/www3*.*l*.*google*.*com.*/
