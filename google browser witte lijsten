@@ -133,3 +133,9 @@
 @@/www*.*google*.*com*/
 @@/google*.*com*/
 @@/www3*.*l*.*google*.*com*/
+@@||speedtest.net^
+@@||i1.ytimg.com^
+@@||i2.ytimg.com^
+@@||i3.ytimg.com^
+@@||i4.ytimg.com^
+@@||yt3.ggpht.com^
