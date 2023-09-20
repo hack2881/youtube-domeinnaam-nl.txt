@@ -1240,3 +1240,5 @@
 ||s.yimg.com^
 ||11.client-channel.google.com^
 ||https://play.google.com/log?format=json&hasfast=true&authuser=0^
+||suggestqueries-clients6.youtube.com^
+||instantmessaging-pa.clients6.google.com^
