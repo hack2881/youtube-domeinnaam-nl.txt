@@ -1237,7 +1237,6 @@
 ||4251601.fls.doubleclick.net^
 ||5307047.fls.doubleclick.net^
 ||9075392.fls.doubleclick.net^
-||ai.ytimg.com^
 ||s.yimg.com^
 ||11.client-channel.google.com^
 ||https://play.google.com/log?format=json&hasfast=true&authuser=0^
