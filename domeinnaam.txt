@@ -1240,3 +1240,12 @@
 ||s.yimg.com^
 ||11.client-channel.google.com^
 ||https://play.google.com/log?format=json&hasfast=true&authuser=0^
+||ziffstatic.com^
+||zdbb.net^
+||sharethrough.com^
+||servenobid.com^
+||rubiconproject.com^
+||relay.bid^
+||pubmatic.com^
+||openx.net^
+||media.net^
