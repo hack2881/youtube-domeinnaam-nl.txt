@@ -129,9 +129,9 @@
 @@/encrypted-tbn3*.*gstatic*.*com*/
 @@/play*.*googleapis*.*com*/
 @@/youtubei*.*googleapis*.*com*/
-@@/www*.*google*.*com*/
-@@/google*.*com*/
-@@/www3*.*l*.*google*.*com*/
+@@/www.google.com/
+@@/google.com/
+@@/www3.l.google.com/
 @@||speedtest.net^
 @@||i1.ytimg.com^
 @@||i2.ytimg.com^
