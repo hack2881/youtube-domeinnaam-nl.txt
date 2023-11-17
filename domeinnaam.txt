@@ -70,7 +70,7 @@
 /sslwidget.criteo.com.*/
 /static.klaviyo.com.*/
 /tr.snapchat.com.*/
-/taboola.com.*/
+/trc-taboola.com.*/
 =========================
 /cdn.opinew.com.*/
 /cdn.shopify.com.*/
