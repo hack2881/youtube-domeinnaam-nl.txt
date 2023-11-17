@@ -42,4 +42,6 @@
 =========================
     nl ads youtube
 =========================
-/www.livin24.com.*/
+/livin24.com.*/
+/nl.stoov.com.*/
+/jobs.kpn.com.*/
