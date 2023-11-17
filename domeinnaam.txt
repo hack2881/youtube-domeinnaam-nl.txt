@@ -69,3 +69,13 @@
 /t.paypal.com.*/
 /tr.snapchat.com.*/
 /trc.taboola.com.*/
+=========================
+/cdn.opinew.com.*/
+/cdn.shopify.com.*/
+/consent.cookiebot.eu.*/
+/geolocation-recommendations.shopifyapps.com.*/
+/nl.esn.com.*/
+/searchanise-ef84.kxcdn.com.*/
+/shop-status.opinew.cloud.*/
+/static-forms.klaviyo.com.*/
+/static.klaviyo.com.*/
