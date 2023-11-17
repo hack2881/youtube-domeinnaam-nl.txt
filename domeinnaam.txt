@@ -39,3 +39,7 @@
 /sgtm.pearle.nl.*/
 ========================
 /images-eu.nivea.com.*/
+=========================
+    nl ads youtube
+=========================
+/www.livin24.com.*/
