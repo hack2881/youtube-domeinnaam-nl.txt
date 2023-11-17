@@ -48,7 +48,7 @@
 =================
 /jobs.kpn.com.*/
 =========================
-/www.woodwatch.com
+/www.woodwatch.com.*/
 /ad.yieldlab.net.*/
 /analytics.tiktok.com.*/
 /bat.bing.com.*/
@@ -66,9 +66,8 @@
 /sc-static.net.*/
 /sslwidget.criteo.com.*/
 /static.klaviyo.com.*/
-/t.paypal.com.*/
 /tr.snapchat.com.*/
-/trc.taboola.com.*/
+/taboola.com.*/
 =========================
 /cdn.opinew.com.*/
 /cdn.shopify.com.*/
