@@ -34,7 +34,7 @@
 /l.google.com.*/
 /googleadservices.com.*/
 /youtube-nocookie.com.*/
-/ads.youtube.com.*/
+/ads\.youtube\.com/*
 /s.youtube.com.*/
 =========================
 /cdn.oryxgaming.com.*/
@@ -81,3 +81,15 @@
 /shop-status.opinew.cloud.*/
 /static-forms.klaviyo.com.*/
 /static.klaviyo.com.*/
+================================================
+/googleads\.g.doubleclick\.net/*
+/pubads\.g.doubleclick\.net/*
+/securepubads\.g.doubleclick\.net/*
+/www\.googleadservices\.com/*
+/pagead2\.googlesyndication\.com/*
+/googlevideo\.com/*
+/m\.youtube\.com/*
+/youtubei\.googleapis.com.*/
+/ads\.youtube\.com/*
+/rr2\.sn-32o-1the.googlevideo\.com/*
+/arabicbetaversion\.com/*
