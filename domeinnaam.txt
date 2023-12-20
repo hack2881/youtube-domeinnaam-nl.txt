@@ -1,5 +1,5 @@
-/zip\./*
-/mov\./*
+/zip/*
+/mov/*
 =========================
 /adservice.google.com.*/
 /adservice.google.nl.*/
