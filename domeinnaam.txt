@@ -101,7 +101,6 @@
 /www.googleadservices.com.*/
 /www.googletagservices.com.*/
 /pagead2.googlesyndication.com.*/
-/googlevideo.com.*/
 /m.youtube.com.*/
 /youtubei.googleapis.com.*/
 ======================================
