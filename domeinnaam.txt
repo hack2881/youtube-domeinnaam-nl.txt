@@ -31,7 +31,6 @@
 /static-images.jumbo.com.*/
 ===================
 /dl.google.com.*/
-/l.google.com.*/
 /googleadservices.com.*/
 /youtube-nocookie.com.*/
 /ads\.youtube\.com/*
