@@ -117,3 +117,4 @@
 /ap2\.googleusercontent\.com/*
 /i4\.ytimg\.com/*
 /ad\.doubleclick\.net/*
+/r4---sn-5hnekn7d.c.2mdn.net.*/
