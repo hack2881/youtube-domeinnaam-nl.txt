@@ -1,4 +1,3 @@
-@@/accounts.google.com.*/
 @@/docs.google.com.*/
 @@/drive.google.com.*/
 @@/script.google.com.*/
@@ -14,7 +13,6 @@
 @@/api.monedata.io.*/
 @@/parse.pinkfire.pw.*/
 @@/firebaseremoteconfig.googleapis.com.*/
-@@/ssl.google-analytics.com.*/
 @@/metrics2.data.hicloud.com.*/
 @@/ogs.google.com.*/
 @@/docs.google.com.*/
@@ -43,7 +41,6 @@
 @@/cdn.jwplayer.com.*/
 @@/cdn.jsdelivr.net.*/
 @@/jsonip.com.*/
-@@/ssl.gstatic.com.*/
 @@/jmt17.google.com.*/
 @@/drive.google.com.*/
 @@/images0.persgroep.net.*/
@@ -66,7 +63,6 @@
 @@/sanalytics.disneyplus.com.*/
 @@/disney.demdex.net.*/
 @@/disney.my.sentry.io.*/
-@@/Youtube-ui.l.google.com.*/
 @@/g.live.com.*/
 @@/flaticon.com.*/
 @@/directmediacuracao.com.*/
@@ -76,7 +72,6 @@
 @@/chat.fuguchat.com.*/
 @@/chat.hippochat.io.*/
 @@/code.jquery.com.*/
-@@/fonts.googleapis.com.*/
 @@/hippo-api.fuguchat.com.*/
 @@/maxcdn.bootstrapcdn.com.*/
 @@/rawgit.com.*/
@@ -119,17 +114,14 @@
 @@/go.xlivrdr.com.*/
 @@/cdn10.trafficjunky.net.*/
 @@/chrome.google.com.*/
-@@/drive-thirdparty*.*googleusercontent*.*com*/
+@@/drive-thirdparty.googleusercontent.com.*/
 @@/encrypted-tbn0.gstatic.com.*/
 @@/encrypted-tbn1.gstatic.com.*/
 @@/encrypted-tbn2.gstatic.com.*/
 @@/encrypted-tbn3.gstatic.com.*/
 @@/play.googleapis.com.*/
-@@/youtubei.googleapis.com.*/
-@@||speedtest.net^
-@@||media.s-bol.com^
-@@||s.s-bol.com^
-@@/i.ytimg.com.*/
+@@||media.s-bol.com.*/
+@@||s.s-bol.com.*/
 @@/ai.ytimg.com.*/
 @@/i1.ytimg.com.*/
 @@/i2.ytimg.com.*/
