@@ -273,3 +273,4 @@
 /s-qa.youtube.com.*/
 ||*.googleadservices.com^
 ||*.googleads.g.doubleclick.net^
+||*.BwE^
