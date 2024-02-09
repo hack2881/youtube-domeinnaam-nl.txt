@@ -271,3 +271,5 @@
 /youtube-nocookie.net.*/
 /youtube-nocookie.org.*/
 /s-qa.youtube.com.*/
+||*.googleadservices.com^
+||*.googleads.g.doubleclick.net^
