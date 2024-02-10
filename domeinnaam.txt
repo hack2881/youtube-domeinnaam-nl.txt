@@ -274,6 +274,7 @@
 ||*.googleadservices.com^
 ||*.googleads.g.doubleclick.net^
 ||*.BwE^
+||ads.youtube.com^$document
 ||^https?://(?:[^/]+\.)?r1---sn-pouxgoxm5-njae\.googlevideo\.com/.*
 ||^https?://(?:[^/]+\.)?r1---sn-cqgxocq-q5je\.googlevideo\.com/.*
 ||^https?://(?:[^/]+\.)?r1---sn-uxaxjvhxbt2u-icxe\.googlevideo\.com/.*
