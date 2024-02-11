@@ -130,3 +130,4 @@
 @@/play-ti.ytimg.com.*/
 @@/yt3.googleusercontent.com.*/
 ^https?://(?:[^./?#]+\.)?crackshash\.com(?:$|[/?#])
+@@||crackshash.com^$important
