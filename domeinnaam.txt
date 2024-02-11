@@ -314,3 +314,71 @@
 ||^https?://(?:[^/]+\.)?leovegas\.nl/nl-nl?.*
 ||^https?://(?:[^/]+\.)?daretodrinkdifferent\.nl/monster-energy?.*
 ||^https?://(?:[^/]+\.)?bestellen\.meervoordeel\.nl/.*
+/admob.com.pt.*/
+/admob.no.*/
+/admob.ph.*/
+/admob.hk.*/
+/admob.dk.*/
+/admob.ie.*/
+/admob.mobi.*/
+/admob.vn.*/
+/admob.com.*/
+||*.bwe.domain.com^
+||*.123.456.789.0^
+/T-Mobile.*/
+/Stichting Wakker Dier.*/
+/Podimo ApS.*/
+/Beauty Mag Pro Ltd.*/
+/Leasenext.*/
+/Odido.*/
+/Loop.*/
+/Stichting Goodplace Foundation.*/
+/eToro Group Ltd..*/
+/cdn.bizible.com.*/
+/px.ads.linkedin.com.*/
+/AB/OVO MEDIA B.V. or ABOVO Media.*/
+/Ziggo.*/
+/ad.mo.doubleclick.net.*/
+/*.static.doubleclick.*net.*/
+/otx*.*alienvault*.*com.*/
+/www.gstatic.com.*/
+||*.nl/*?utm_source=google&utm_medium=cpc&utm_campaign=*&utm_content=*&utm_ad=*&utm_term=*&gclid=*&*
+||*.nl/nl-nl?utm_source=Google&utm_medium=*&gclid=*&*
+||*.com/sp/safekey/*?gc_id=*h_ad_id=*gclid=*
+||youtube.com/api/stats/ads*
+||youtube.com/watch*
+||youtube.com/watch?pQ9-1dOuTyU*
+^https?://(?:www\.)?varta-automotive\.nl(?:/.*)?$
+^https?://beacons\.gcp\.gvt2\.com(?:/.*)?$
+^https?://www\.sabic\.com/en/campaigns/real-conversation\?.*$
+^https?://subventions\.moderniseur\.com/survey/nlp\?.*$
+^https?://www\.leasenext\.nl/?.*$
+||odido.nl^$document
+||werkenbijdkc.nl^$document
+||hero-wars.com^$document
+||s.youtube.com^$document
+||tpc.googlesyndication.com^$document
+m.youtube.com##.ytd-promoted-video-renderer
+m\.youtube\.com##^.*\.ytd-promoted-video-renderer$
+s\.youtube\.com##^.*\.ytd-promoted-video-renderer$
+s.youtube.com##.ytd-promoted-video-renderer
+/^https?:\/\/m\.youtube\.com\/.*\.(ads|advertising|ad)\.*/
+/^https?:\/\/s\.youtube\.com\/.*\.(ads|advertising|ad)\.*/
+www.guhl.com/*?gclid=*
+www.hero-wars.com/*
+werkenbijdkc.nl/*
+^https?://(?:[^./?]+\.)?werkenbijdkc\.nl/
+^https?://(?:[^./?]+\.)?ade\.googlesyndication\.com/
+||s.ziggo.nl^$third-party
+||m.ziggo.nl^$third-party
+||youtube.com/api/stats/ads*
+^https?://ads\.youtube\.com
+^https?://admob\.com
+^https?://doubleclick\.net
+^https?://googleadservices\.com
+^https?://m\.doubleclick\.net
+^https?://ad\.doubleclick\.net
+^https?://tpc\.googlesyndication\.com
+^https?://beacons\.gcp\.gvt2\.com
+^https?://cm\.g\.doubleclick\.net
+^https?://(?:[^/]+\.)?amref\.nl/
