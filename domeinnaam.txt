@@ -275,6 +275,7 @@
 ||*.googleads.g.doubleclick.net^
 ||*.BwE^
 ||ads.youtube.com^$document
+/^r1---sn-n4v7knll\.googlevideo\.com$/
 ||^https?://(?:[^/]+\.)?r1---sn-pouxgoxm5-njae\.googlevideo\.com/.*
 ||^https?://(?:[^/]+\.)?r1---sn-cqgxocq-q5je\.googlevideo\.com/.*
 ||^https?://(?:[^/]+\.)?r1---sn-uxaxjvhxbt2u-icxe\.googlevideo\.com/.*
@@ -362,6 +363,6 @@ s\.youtube\.com##^.*\.ytd-promoted-video-renderer$
 s.youtube.com##.ytd-promoted-video-renderer
 /^https?:\/\/m\.youtube\.com\/.*\.(ads|advertising|ad)\.*/
 /^https?:\/\/s\.youtube\.com\/.*\.(ads|advertising|ad)\.*/
-www.guhl.com/*?gclid=*
-www.hero-wars.com/*
-werkenbijdkc.nl/*
+/www.guhl.com/*?gclid=*
+/www.hero-wars.com/*
+/werkenbijdkc.nl/*
