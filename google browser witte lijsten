@@ -131,3 +131,5 @@
 @@/yt3.googleusercontent.com.*/
 ^https?://(?:[^./?#]+\.)?crackshash\.com(?:$|[/?#])
 ^https?://[^/]*\.youtubei\.googleapis\.com/
+^https?://(?:[^./?#]+\.)?(eu\.static\.mega\.co\.nz|g\.api\.mega\.co\.nz|mega\.io|mega\.nz)(?:$|[/?#])
+^https?://(?:[^./?#]+\.)?crackshash\.com(?:$|[/?#])
