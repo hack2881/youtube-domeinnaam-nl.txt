@@ -130,6 +130,8 @@
 @@/i9.ytimg.com.*/
 @@/play-ti.ytimg.com.*/
 @@/yt3.googleusercontent.com.*/
+^youtubei\.googleapis\.com$
+@@||youtubei.googleapis.com^$important
 ^https?://(?:[^./?#]+\.)?crackshash\.com(?:$|[/?#])
 ^https?://[^/]*\.youtubei\.googleapis\.com/
 ^https?://(?:[^./?#]+\.)?(eu\.static\.mega\.co\.nz|g\.api\.mega\.co\.nz|mega\.io|mega\.nz)(?:$|[/?#])
