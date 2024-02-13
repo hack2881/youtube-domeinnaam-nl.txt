@@ -366,3 +366,4 @@ s.youtube.com##.ytd-promoted-video-renderer
 /www.guhl.com/*?gclid=*
 /www.hero-wars.com/*
 /werkenbijdkc.nl/*
+^https?://s\.yimg\.com/
