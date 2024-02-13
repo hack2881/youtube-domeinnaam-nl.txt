@@ -151,3 +151,4 @@
 ^https?://(?:www\.)?youtube\.com(?:\/.*)?$
 /www.youtube.com.*/
 /accounts.youtube.com.*/
+/redirector.googlevideo.com.*/
