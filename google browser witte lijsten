@@ -149,3 +149,5 @@
 ^youtubei\.googleapis\.com$
 ^https?:\/\/(?:www\.)?youtube\.com$
 ^https?://(?:www\.)?youtube\.com(?:\/.*)?$
+/www.youtube.com.*/
+/accounts.youtube.com.*/
