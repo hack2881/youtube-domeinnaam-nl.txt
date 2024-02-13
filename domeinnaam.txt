@@ -367,3 +367,4 @@ s.youtube.com##.ytd-promoted-video-renderer
 /www.hero-wars.com/*
 /werkenbijdkc.nl/*
 ^https?://s\.yimg\.com/
+/s.yimg.com.*/
