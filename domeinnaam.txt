@@ -88,9 +88,7 @@
 /pagead2\.googlesyndication\.com/*
 /googlevideo\.com/*
 /m\.youtube\.com/*
-/youtubei\.googleapis.com.*/
 /ads\.youtube\.com/*
-/rr2\.sn-32o-1the.googlevideo\.com/*
 /arabicbetaversion\.com/*
 ======================================
 /ads\.youtube.com^.*/
@@ -98,13 +96,11 @@
 /pubads.g.doubleclick.net.*/
 /securepubads.g.doubleclick.net.*/
 /www.googleadservices.com.*/
-/www.googletagservices.com.*/
 /pagead2.googlesyndication.com.*/
 /m.youtube.com.*/
 /youtubei.googleapis.com.*/
 ======================================
 /ads\.youtube\.com/*
-/rr2\.sn-32o-1the\.googlevideo\.com/*
 /arabicbetaversion\.com/*
 /ads\.stickyadstv\.com/*
 /ad-delivery\.net.*/
