@@ -348,7 +348,7 @@
 ||odido.nl^$document
 ||werkenbijdkc.nl^$document
 ||hero-wars.com^$document
-||s.youtube.com^$document
+|s.youtube.com^$document
 ||tpc.googlesyndication.com^$document
 ||s.ziggo.nl^$third-party
 ||m.ziggo.nl^$third-party
@@ -363,4 +363,4 @@ s.youtube.com##.ytd-promoted-video-renderer
 /www.hero-wars.com/*
 /werkenbijdkc.nl/*
 ^https?://s\.yimg\.com/
-/s.yimg.com.*/
+|s.yimg.com^$important
