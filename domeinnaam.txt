@@ -33,6 +33,7 @@
 =========================================
 |play.google.com^$important
 |g.doubleclick.net^$important
+|ap2.googleusercontent.com^$important
 |ad.mo.doubleclick.net^$important
 |static.doubleclick.net^$important
 |pagead2.googlesyndication.com^$important
@@ -54,7 +55,13 @@
 |m.yimg.com^$important
 |s.yimg.com^$important
 |i.ytimg.com^$important
+|ai.ytimg.com^$important
 |i1.ytimg.com^$important
+|i2.ytimg.com^$important
+|i3.ytimg.com^$important
+|i4.ytimg.com^$important
+|i9.ytimg.com^$important
+|play-ti.ytimg.com^$important
 =========================================
 |youtubei.googleapis.com^$important
 |youtube-nocookie.net^$important
