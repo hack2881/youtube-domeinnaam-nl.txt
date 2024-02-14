@@ -130,7 +130,6 @@
 @@/i9.ytimg.com.*/
 @@/play-ti.ytimg.com.*/
 @@/yt3.googleusercontent.com.*/
-^youtubei\.googleapis\.com$
 @@||youtubei.googleapis.com^$important
 @@/rr1---sn-32o-1the.googlevideo.com.*/
 @@/rr2---sn-32o-1the.googlevideo.com.*/
