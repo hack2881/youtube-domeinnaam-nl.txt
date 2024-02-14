@@ -364,3 +364,10 @@ s.youtube.com##.ytd-promoted-video-renderer
 /werkenbijdkc.nl/*
 ^https?://s\.yimg\.com/
 |s.yimg.com^$important
+|www.weekvanhetgeld.nl^$important
+|www.hbomax.com^$important
+|googleads.g.doubleclick.net^$important
+|ad.doubleclick.net^$important
+|ade.googlesyndication.com^$important
+|i.ytimg.com^$important
+|i1.ytimg.com^$important
