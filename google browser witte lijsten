@@ -140,4 +140,5 @@
 @@/accounts.youtube.com.*/$important
 @@/redirector.googlevideo.com.*/$important
 @@/www.youtube.com.*/$important
-@@||suggestqueries-clients6.youtube.com.*/$important
+@@/suggestqueries-clients6.youtube.com.*/$important
+@@/s.youtube.com.*/$important
