@@ -140,3 +140,4 @@
 @@/accounts.youtube.com.*/
 @@/redirector.googlevideo.com.*/
 @@/www.youtube.com.*/
+^https?://(www\.)?youtube\.com/
