@@ -131,7 +131,6 @@
 @@|i9.ytimg.com^$important
 @@|play-ti.ytimg.com^$important
 @@|yt3.googleusercontent.com^$important
-@@||youtubei.googleapis.com^$important
 @@||rr1---sn-32o-1the.googlevideo.com^$important
 @@||rr2---sn-32o-1the.googlevideo.com^$important
 @@||rr3---sn-32o-1the.googlevideo.com^$important
@@ -142,8 +141,8 @@
 @@||www.youtube.com^$important
 @@|suggestqueries-clients6.youtube.com^$important
 @@|s.youtube.com^$important
-@@|youtube.com^$imporant
-@@|youtubei.googleapis.com^$important
+@@||youtube.com^$imporant
+@@||youtubei.googleapis.com^$important
 @@|googleads.g.doubleclick.net^$important
 @@|ad.doubleclick.net^$important
 @@|play.google.com^$important
