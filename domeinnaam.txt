@@ -100,7 +100,7 @@
 |pagead.l.doubleclick.net^$important
 |partnerad.l.doubleclick.net^$important
 |rich-media-dynamic-ads-api.l.doubleclick.net^$important
-      #nl ads youtube
+      nl ads youtube
 ============================
 /static-images.jumbo.com.*/
 /cdn.oryxgaming.com.*/
@@ -148,3 +148,4 @@
 /www.comeon.nl.*/
 /viaplay.com.*/
 /www.plus500.com.*/
+/www.odido.nl.*/
