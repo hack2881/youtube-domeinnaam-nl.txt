@@ -121,8 +121,8 @@
 @@|play.googleapis.com^$important
 @@||media.s-bol.com^$important
 @@||s.s-bol.com^$important
-@@|s.ytimg.com^$important
-@@|i.ytimg.com^$important
+@@||s.ytimg.com^$important
+@@||i.ytimg.com^$important
 @@|ai.ytimg.com^$important
 @@|i1.ytimg.com^$important
 @@|i2.ytimg.com^$important
@@ -139,7 +139,7 @@
 @@|rr5---sn-32o-1the.googlevideo.com^$important
 @@|accounts.youtube.com^$important
 @@|redirector.googlevideo.com^$important
-@@|www.youtube.com^$important
+@@||www.youtube.com^$important
 @@|suggestqueries-clients6.youtube.com^$important
 @@|s.youtube.com^$important
 @@|youtube.com^$imporant
