@@ -149,3 +149,4 @@
 /viaplay.com.*/
 /www.plus500.com.*/
 /www.odido.nl.*/
+/www.ah.nl.*/
