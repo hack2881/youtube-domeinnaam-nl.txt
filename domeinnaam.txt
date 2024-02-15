@@ -146,3 +146,5 @@
 /www.hbomax.com.*/
 /adx.ads.vungle.com.*/
 /www.comeon.nl.*/
+/viaplay.com.*/
+/www.plus500.com.*/
