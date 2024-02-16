@@ -233,3 +233,4 @@ youtube.com/music
 youtube.com/tv
 youtube.com/user
 youtube.com/watch
+^.*\.youtube\.com$
