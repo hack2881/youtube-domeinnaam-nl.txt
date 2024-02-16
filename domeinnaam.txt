@@ -151,3 +151,6 @@
 /www.odido.nl.*/
 /www.ah.nl.*/
 ^https?://(?:[^./]+\.)?static\.ah\.nl(?:/.*)?$
+^https?://(?:[^./]+\.)?jacks\.nl(?:/.*)?$
+^https?://(?:[^./]+\.)?rabobank\.jobs(?:/.*)?$
+^https?://(?:www\.)?kevintimmerdaytrading\.nl(?:/.*)?$
