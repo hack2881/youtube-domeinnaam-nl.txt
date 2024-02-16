@@ -254,3 +254,4 @@ youtube.com/watch
 ^youtube\.com/watch$
 ^youtube\.com/youtubei$
 ^https?://(?:www\.)?youtube\.com$
+^https?://(?:www\.)?youtube\.com(?:/.*)?$
