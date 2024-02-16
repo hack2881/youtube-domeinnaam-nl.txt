@@ -234,3 +234,5 @@ youtube.com/tv
 youtube.com/user
 youtube.com/watch
 ^.*\.youtube\.com$
+^.*\.youtube\.com|^i\.ytimg\.com$
+^.*\.youtube\.com|^i\.ytimg\.com|^www\.youtube\.com$
