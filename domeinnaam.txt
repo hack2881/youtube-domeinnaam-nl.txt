@@ -154,3 +154,4 @@
 ^https?://(?:[^./]+\.)?jacks\.nl(?:/.*)?$
 ^https?://(?:[^./]+\.)?rabobank\.jobs(?:/.*)?$
 ^https?://(?:www\.)?kevintimmerdaytrading\.nl(?:/.*)?$
+^https?://(?:www\.)?tefal\.nl(?:/.*)?$
