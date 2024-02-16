@@ -253,3 +253,4 @@ youtube.com/watch
 ^youtube\.com/subscribe_widget$
 ^youtube\.com/watch$
 ^youtube\.com/youtubei$
+^https?://(?:www\.)?youtube\.com$
