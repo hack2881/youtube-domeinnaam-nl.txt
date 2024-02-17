@@ -150,50 +150,49 @@
 /www.plus500.com.*/
 /www.odido.nl.*/
 /www.ah.nl.*/
-127.0.0.1 ||www.advertising.yahooinc.com^$important
-127.0.0.1 ||www.amnesty.nl^$important
-127.0.0.1 ||nl.yfood.eu^$important
-127.0.0.1 ||rr3---sn-5hnekn7k.googlevideo.com^$important
-127.0.0.1 ||r4---sn-5hne6n6l.googlevideo.com^$important
-127.0.0.1 ||r4---sn-5hnednss.googlevideo.com^$important
-127.0.0.1 ||r3---sn-5hnednss.googlevideo.com^$important
-127.0.0.1 ||r3---sn-5hneknee.googlevideo.com^$important
-127.0.0.1 ||r5---sn-5hne6ns6.googlevideo.com^$important
-127.0.0.1 ||r1---sn-5hne6n6e.googlevideo.com^$important
-127.0.0.1 ||r3---sn-5hne6nsz.googlevideo.com^$important
-127.0.0.1 ||r5---sn-4g5lzner.googlevideo.com^$important
-127.0.0.1 ||rr5---sn-5hne6nsz.googlevideo.com^$important
-127.0.0.1 ||rr2---sn-5hne6nsz.googlevideo.com^$important
-127.0.0.1 ||r4---sn-4g5edndl.googlevideo.com^$important
-127.0.0.1 ||rr2---sn-5hnekn7z.googlevideo.com^$important
-127.0.0.1 ||r4---sn-4g5lzned.googlevideo.com^$important
-127.0.0.1 ||rr3---sn-5hne6nsz.googlevideo.com^$important
-127.0.0.1 ||rr2---sn-5hnednss.googlevideo.com^$important
-127.0.0.1 ||rr3---sn-5hne6nzk.googlevideo.com^$important
-127.0.0.1 ||r1---sn-4g5lznl6.googlevideo.com^$important
-127.0.0.1 ||rr5---sn-5hne6nzy.googlevideo.com^$important
-127.0.0.1 ||r2---sn-4g5edndl.googlevideo.com^$important
-127.0.0.1 ||rr4---sn-5hne6n6l.googlevideo.com^$important
-127.0.0.1 ||r2---sn-5hnekn7l.googlevideo.com^$important
-127.0.0.1 ||rr4---sn-5hne6nzy.googlevideo.com^$important
-127.0.0.1 ||r2---sn-5hnekn7z.googlevideo.com^$important
-127.0.0.1 ||r5---sn-5hne6nz6.googlevideo.com^$important
-127.0.0.1 ||r3---sn-5hnekn7k.googlevideo.com^$important
-127.0.0.1 ||rr5---sn-5hne6nz6.googlevideo.com^$important
-127.0.0.1 ||r4---sn-5hne6nsd.googlevideo.com^$important
-127.0.0.1 ||r2---sn-5hne6nzk.googlevideo.com^$important
-127.0.0.1 ||r2---sn-5hne6nsr.googlevideo.com^$important
-127.0.0.1 ||rr5---sn-5hne6nsd.googlevideo.com^$important
-127.0.0.1 ||rr1---sn-5hne6nzs.googlevideo.com^$important
-127.0.0.1 ||rr3---sn-5hnekn7s.googlevideo.com^$important
-127.0.0.1 ||www.googleadservices.com^$important
-127.0.0.1 ||rr5---sn-5hne6n6e.googlevideo.com^$important
-127.0.0.1 ads.youtube.com
-127.0.0.1 ||www.molke.nl^$important
-127.0.0.1 ||r4---sn-5hne6nsd.googlevideo.com^$important
-127.0.0.1 ||rr1---sn-5hne6nzs.googlevideo.com^$important
-127.0.0.1 ||rr5---sn-5hne6nsd.googlevideo.com^$important
-127.0.0.1 ||rr5---sn-5hne6nsz.googlevideo.com^$important
-127.0.0.1 ||rr4---sn-5hneknes.googlevideo.com^$important
-127.0.0.1 ||rr2---sn-5hnekn76.googlevideo.com^$important
-127.0.0.1 ||rr4---sn-5hne6nzy.googlevideo.com^$important
+||www.advertising.yahooinc.com^$important
+||www.amnesty.nl^$important
+||nl.yfood.eu^$important
+||rr3---sn-5hnekn7k.googlevideo.com^$important
+||r4---sn-5hne6n6l.googlevideo.com^$important
+||r4---sn-5hnednss.googlevideo.com^$important
+||r3---sn-5hnednss.googlevideo.com^$important
+||r3---sn-5hneknee.googlevideo.com^$important
+||r5---sn-5hne6ns6.googlevideo.com^$important
+||r1---sn-5hne6n6e.googlevideo.com^$important
+||r3---sn-5hne6nsz.googlevideo.com^$important
+||r5---sn-4g5lzner.googlevideo.com^$important
+||rr5---sn-5hne6nsz.googlevideo.com^$important
+||rr2---sn-5hne6nsz.googlevideo.com^$important
+||r4---sn-4g5edndl.googlevideo.com^$important
+||rr2---sn-5hnekn7z.googlevideo.com^$important
+||r4---sn-4g5lzned.googlevideo.com^$important
+||rr3---sn-5hne6nsz.googlevideo.com^$important
+||rr2---sn-5hnednss.googlevideo.com^$important
+||rr3---sn-5hne6nzk.googlevideo.com^$important
+||r1---sn-4g5lznl6.googlevideo.com^$important
+||rr5---sn-5hne6nzy.googlevideo.com^$important
+||r2---sn-4g5edndl.googlevideo.com^$important
+||rr4---sn-5hne6n6l.googlevideo.com^$important
+||r2---sn-5hnekn7l.googlevideo.com^$important
+||rr4---sn-5hne6nzy.googlevideo.com^$important
+||r2---sn-5hnekn7z.googlevideo.com^$important
+||r5---sn-5hne6nz6.googlevideo.com^$important
+||r3---sn-5hnekn7k.googlevideo.com^$important
+||rr5---sn-5hne6nz6.googlevideo.com^$important
+||r4---sn-5hne6nsd.googlevideo.com^$important
+||r2---sn-5hne6nzk.googlevideo.com^$important
+||r2---sn-5hne6nsr.googlevideo.com^$important
+||rr5---sn-5hne6nsd.googlevideo.com^$important
+||rr1---sn-5hne6nzs.googlevideo.com^$important
+||rr3---sn-5hnekn7s.googlevideo.com^$important
+||www.googleadservices.com^$important
+||rr5---sn-5hne6n6e.googlevideo.com^$important
+||www.molke.nl^$important
+||r4---sn-5hne6nsd.googlevideo.com^$important
+||rr1---sn-5hne6nzs.googlevideo.com^$important
+||rr5---sn-5hne6nsd.googlevideo.com^$important
+||rr5---sn-5hne6nsz.googlevideo.com^$important
+||rr4---sn-5hneknes.googlevideo.com^$important
+||rr2---sn-5hnekn76.googlevideo.com^$important
+||rr4---sn-5hne6nzy.googlevideo.com^$important
