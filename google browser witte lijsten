@@ -87,7 +87,6 @@
 @@|suggestqueries-clients6.youtube.com^$important
 ===================================================
 @@|*.ytimg.com^$important
-@@|*.googlevideo.com^$important
 @@|*.www.youtube.com^$important
 @@|yewtu.be^$important
 @@|yimg.com^$important
