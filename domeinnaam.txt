@@ -189,3 +189,11 @@
 127.0.0.1 ||www.googleadservices.com^$important
 127.0.0.1 ||rr5---sn-5hne6n6e.googlevideo.com^$important
 127.0.0.1 ads.youtube.com
+127.0.0.1 ||www.molke.nl^$important
+127.0.0.1 ||r4---sn-5hne6nsd.googlevideo.com^$important
+127.0.0.1 ||rr1---sn-5hne6nzs.googlevideo.com^$important
+127.0.0.1 ||rr5---sn-5hne6nsd.googlevideo.com^$important
+127.0.0.1 ||rr5---sn-5hne6nsz.googlevideo.com^$important
+127.0.0.1 ||rr4---sn-5hneknes.googlevideo.com^$important
+127.0.0.1 ||rr2---sn-5hnekn76.googlevideo.com^$important
+127.0.0.1 ||rr4---sn-5hne6nzy.googlevideo.com^$important
