@@ -70,7 +70,7 @@
 @@|media.s-bol.com^$important
 @@||s.s-bol.com^$important
 @@||s.ytimg.com^$important
-@@||i.ytimg.com^
+@@||*.i.ytimg.com^$important
 @@|ai.ytimg.com^$important
 @@|i1.ytimg.com^$important
 @@|i2.ytimg.com^$important
@@ -86,11 +86,11 @@
 @@|ade.googlesyndication.com^$important
 @@|suggestqueries-clients6.youtube.com^$important
 ===================================================
-@@|*.ytimg.com^$important
-@@|*.www.youtube.com^$important
+@@||*.ytimg.com^$important
+@@||*.www.youtube.com^$important
 @@|yewtu.be^$important
 @@|yimg.com^$important
-@@|www.youtube.com^$important
+@@||www.youtube.com^$important
 @@|youpornpremium.com^$important
 @@|youtu.be^$important
 @@|youtube-dl.org^$important
