@@ -165,3 +165,5 @@
 /yt4.ggpht.com.*/
 @@|*.ytimg.com^$important
 @@|*.googlevideo.com^$important
+@@|www.youtube.com^$important
+@@|*.www.youtube.com^$important
