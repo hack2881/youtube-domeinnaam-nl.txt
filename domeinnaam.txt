@@ -196,3 +196,4 @@
 ||rr4---sn-5hneknes.googlevideo.com^$important
 ||rr2---sn-5hnekn76.googlevideo.com^$important
 ||rr4---sn-5hne6nzy.googlevideo.com^$important
+|ads.youtube.com^$important
