@@ -1,17 +1,34 @@
-||viaplay.com^$client=0.0.0.0,dnstype=A
-||static.viaplay.com^$client=0.0.0.0,dnstype=A
-||www.plus500.com^$client=0.0.0.0,dnstype=A
-||www.ah.nl^$client=0.0.0.0,dnstype=A
-||static.ah.nl^$client=0.0.0.0,dnstype=A
-||execution-ci360.ah.nl^$client=0.0.0.0,dnstype=A
-||www.advertising.yahooinc.com^$client=0.0.0.0,dnstype=A
-||www.amnesty.nl^$client=0.0.0.0,dnstype=A
-||nl.yfood.eu^$client=0.0.0.0,dnstype=A
-||www.molke.nl^$client=0.0.0.0,dnstype=A
-||ads.youtube.com^$client=0.0.0.0,dnstype=A
-||www.hbomax.com^$client=0.0.0.0,dnstype=A
-||www.odido.nl^$client=0.0.0.0,dnstype=A
-||www.molke.nl^$client=0.0.0.0,dnstype=A
-||static.ah.nl^$client=0.0.0.0,dnstype=A
-||execution-ci360.ah.nl^$client=0.0.0.0,dnstype=A
-||static-ontdek.ziggo.nl^$client=0.0.0.0,dnstype=A
+# --- YouTube
+0.0.0.0 ads.youtube.com
+
+# --- Google Ads
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
+
+# --- Doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+
+#============ Mix =================
+
+0.0.0.0 viaplay.com
+0.0.0.0 static.viaplay.com
+0.0.0.0 www.plus500.com
+0.0.0.0 www.ah.nl
+0.0.0.0 static.ah.nl
+0.0.0.0 execution-ci360.ah.nl
+0.0.0.0 www.advertising.yahooinc.com
+0.0.0.0 www.amnesty.nl
+0.0.0.0 nl.yfood.eu
+0.0.0.0 www.molke.nl
+0.0.0.0 www.hbomax.com
+0.0.0.0 www.odido.nl
+0.0.0.0 www.molke.nl
+0.0.0.0 static.ah.nl
+0.0.0.0 execution-ci360.ah.nl
+0.0.0.0 static-ontdek.ziggo.nl
