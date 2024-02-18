@@ -1,27 +1,22 @@
-! --- Google Ads
+=========Google Ads===============
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
-
-! --- YouTube
+==========YouTube=================
 |!ads.youtube.com^
-
-! --- Google Ads
+==========Google Ads==============
 !|pagead2.googlesyndication.com^
 !|adservice.google.com^
 !|pagead2.googleadservices.com^
 !|afs.googlesyndication.com^
-
-! --- Doubleclick.net
+==========Doubleclick.net=========
 !|stats.g.doubleclick.net^
 !|ad.doubleclick.net^
 !|static.doubleclick.net^
 !|m.doubleclick.net^
 !|mediavisor.doubleclick.net^
-
-!============ Mix =================
-
+============ Mix =================
 !|s.viaplay.com^
 !|static.viaplay.com^
 !|www.plus500.com^
