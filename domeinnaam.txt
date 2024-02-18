@@ -5,36 +5,36 @@
 ||afs.googlesyndication.com^
 
 ! --- YouTube
-!ads.youtube.com^
+|!ads.youtube.com^
 
 ! --- Google Ads
-!pagead2.googlesyndication.com^
-!adservice.google.com^
-!pagead2.googleadservices.com^
-!afs.googlesyndication.com^
+!|pagead2.googlesyndication.com^
+!|adservice.google.com^
+!|pagead2.googleadservices.com^
+!|afs.googlesyndication.com^
 
 ! --- Doubleclick.net
-!stats.g.doubleclick.net^
-!ad.doubleclick.net^
-!static.doubleclick.net^
-!m.doubleclick.net^
-!mediavisor.doubleclick.net^
+!|stats.g.doubleclick.net^
+!|ad.doubleclick.net^
+!|static.doubleclick.net^
+!|m.doubleclick.net^
+!|mediavisor.doubleclick.net^
 
 !============ Mix =================
 
-!viaplay.com^
-!static.viaplay.com^
-!www.plus500.com^
-!www.ah.nl^
-!static.ah.nl^
-!execution-ci360.ah.nl^
-!www.advertising.yahooinc.com^
-!www.amnesty.nl^
-!nl.yfood.eu^
-!www.molke.nl^
-!www.hbomax.com^
-!www.odido.nl^
-!www.molke.nl^
-!static.ah.nl^
-!execution-ci360.ah.nl^
-!static-ontdek.ziggo.nl^
+!|s.viaplay.com^
+!|static.viaplay.com^
+!|www.plus500.com^
+!|www.ah.nl^
+!|static.ah.nl^
+!|execution-ci360.ah.nl^
+!|www.advertising.yahooinc.com^
+!|www.amnesty.nl^
+!|nl.yfood.eu^
+!|www.molke.nl^
+!|www.hbomax.com^
+!|www.odido.nl^
+!|www.molke.nl^
+!|static.ah.nl^
+!|execution-ci360.ah.nl^
+!|static-ontdek.ziggo.nl^
