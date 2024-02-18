@@ -1,34 +1,40 @@
-# --- YouTube
-0.0.0.0 ads.youtube.com
+! --- Google Ads
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||afs.googlesyndication.com^
 
-# --- Google Ads
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 adservice.google.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 afs.googlesyndication.com
+! --- YouTube
+!ads.youtube.com^
 
-# --- Doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 mediavisor.doubleclick.net
+! --- Google Ads
+!pagead2.googlesyndication.com^
+!adservice.google.com^
+!pagead2.googleadservices.com^
+!afs.googlesyndication.com^
 
-#============ Mix =================
+! --- Doubleclick.net
+!stats.g.doubleclick.net^
+!ad.doubleclick.net^
+!static.doubleclick.net^
+!m.doubleclick.net^
+!mediavisor.doubleclick.net^
 
-0.0.0.0 viaplay.com
-0.0.0.0 static.viaplay.com
-0.0.0.0 www.plus500.com
-0.0.0.0 www.ah.nl
-0.0.0.0 static.ah.nl
-0.0.0.0 execution-ci360.ah.nl
-0.0.0.0 www.advertising.yahooinc.com
-0.0.0.0 www.amnesty.nl
-0.0.0.0 nl.yfood.eu
-0.0.0.0 www.molke.nl
-0.0.0.0 www.hbomax.com
-0.0.0.0 www.odido.nl
-0.0.0.0 www.molke.nl
-0.0.0.0 static.ah.nl
-0.0.0.0 execution-ci360.ah.nl
-0.0.0.0 static-ontdek.ziggo.nl
+!============ Mix =================
+
+!viaplay.com^
+!static.viaplay.com^
+!www.plus500.com^
+!www.ah.nl^
+!static.ah.nl^
+!execution-ci360.ah.nl^
+!www.advertising.yahooinc.com^
+!www.amnesty.nl^
+!nl.yfood.eu^
+!www.molke.nl^
+!www.hbomax.com^
+!www.odido.nl^
+!www.molke.nl^
+!static.ah.nl^
+!execution-ci360.ah.nl^
+!static-ontdek.ziggo.nl^
