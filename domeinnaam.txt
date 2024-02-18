@@ -9,3 +9,5 @@
 ||www.hbomax.com^$client=0.0.0.0,dnstype=A
 ||www.odido.nl^$client=0.0.0.0,dnstype=A
 ||www.molke.nl^$client=0.0.0.0,dnstype=A
+||static.ah.nl^$client=0.0.0.0,dnstype=A
+||execution-ci360.ah.nl^$client=0.0.0.0,dnstype=A
