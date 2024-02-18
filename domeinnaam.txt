@@ -3,6 +3,7 @@
 ||www.plus500.com^$client=0.0.0.0,dnstype=A
 ||www.ah.nl^$client=0.0.0.0,dnstype=A
 ||static.ah.nl^$client=0.0.0.0,dnstype=A
+||execution-ci360.ah.nl^$client=0.0.0.0,dnstype=A
 ||www.advertising.yahooinc.com^$client=0.0.0.0,dnstype=A
 ||www.amnesty.nl^$client=0.0.0.0,dnstype=A
 ||nl.yfood.eu^$client=0.0.0.0,dnstype=A
