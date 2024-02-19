@@ -15,3 +15,5 @@
 127.0.0.1 /static.doubleclick.net/
 127.0.0.1 /ad.doubleclick.net/
 127.0.0.1 /www.googletagmanager.com/
+127.0.0.1 /ns1.ynatechnologies.com/
+127.0.0.1 /ns2.ynatechnologies.com/
