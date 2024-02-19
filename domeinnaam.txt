@@ -1,4 +1,3 @@
-=========Google Ads===============
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
