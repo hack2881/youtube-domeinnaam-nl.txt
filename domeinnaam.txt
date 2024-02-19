@@ -12,3 +12,4 @@
 127.0.0.1 /*.graph.facebook.com/
 127.0.0.1 /*.b-api.facebook.com/
 127.0.0.1 /*.static.bunq.com/
+127.0.0.1 /*.static.doubleclick.net/
