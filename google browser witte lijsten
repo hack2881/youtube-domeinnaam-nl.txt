@@ -114,7 +114,8 @@
 @@||yt3.ggpht.com^$important
 @@||youtubei.googleapis.com^$important
 @@||facvicon-www.youtube.com^$important
-@@||rr1---sn-32o-1the.googlevideo.com^$client='0.0.0.0'
-@@||rr2---sn-32o-1the.googlevideo.com^$client='0.0.0.0'
-@@||rr3---sn-32o-1the.googlevideo.com^$client='0.0.0.0'
-@@||rr4---sn-32o-1the.googlevideo.com^$client='0.0.0.0'
+@@|rr1---sn-32o-1the.googlevideo.com^$client='127.0.0.1'
+@@|rr2---sn-32o-1the.googlevideo.com^$client='127.0.0.1'
+@@|rr3---sn-32o-1the.googlevideo.com^$client='127.0.0.1'
+@@|rr4---sn-32o-1the.googlevideo.com^$client='127.0.0.1'
+@@|rr5---sn-32o-1the.googlevideo.com^$client='127.0.0.1'
