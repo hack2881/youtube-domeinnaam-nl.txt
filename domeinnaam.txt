@@ -18,3 +18,8 @@
 127.0.0.1 /www.googletagmanager.com/
 127.0.0.1 /ns1.ynatechnologies.com/
 127.0.0.1 /ns2.ynatechnologies.com/
+127.0.0.1 /ad-delivery.net/
+127.0.0.1 /ad.turn.com/
+127.0.0.1 /ade.googlesyndication.com/
+127.0.0.1 /ads.pubmatic.com/
+127.0.0.1 /ads.servenobid.com/
