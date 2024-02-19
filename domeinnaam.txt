@@ -1,4 +1,5 @@
 127.0.0.1 /*.ads.youtube.com/
 127.0.0.1 /*.s.ah.nl/
 127.0.0.1 /*.m.ah.nl/
+127.0.0.1 /*.static.ah.nl/
 127.0.0.1 /*.execution-ci360.ah.nl/
