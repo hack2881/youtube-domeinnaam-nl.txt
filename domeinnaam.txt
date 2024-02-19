@@ -4,3 +4,5 @@
 127.0.0.1 /*.static.ah.nl/
 127.0.0.1 /*.execution-ci360.ah.nl/
 127.0.0.1 /*.cloud.bluestacks.com/
+127.0.0.1 /*.www.advertising.yahooinc.com/
+127.0.0.1 /*.advertising-api-eu.amazon.com/
