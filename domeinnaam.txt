@@ -6,3 +6,8 @@
 127.0.0.1 /*.cloud.bluestacks.com/
 127.0.0.1 /*.www.advertising.yahooinc.com/
 127.0.0.1 /*.advertising-api-eu.amazon.com/
+127.0.0.1 /*.nl.yfood.eu/
+127.0.0.1 /*.www.flexispot.nl/
+127.0.0.1 /*.cdn1.stamped.io/
+127.0.0.1 /*.graph.facebook.com/
+127.0.0.1 /*.b-api.facebook.com/
