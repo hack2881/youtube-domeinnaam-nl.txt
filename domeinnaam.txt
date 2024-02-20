@@ -35,3 +35,4 @@
 127.0.0.1 /ads.stickyadstv.com/
 127.0.0.1 /ads.yieldmo.com/
 127.0.0.1 /www.bullionz.com/
+127.0.0.1 /bellani.nl/
