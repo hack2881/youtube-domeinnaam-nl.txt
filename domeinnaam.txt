@@ -27,3 +27,10 @@
 127.0.0.1 /ns-1833.awsdns-37.co.uk/
 127.0.0.1 /ns-477.awsdns-59.com/
 127.0.0.1 /ns-522.awsdns-01.net/
+127.0.0.1 /acdn.adnxs.com/
+127.0.0.1 /ad.360yield.com/
+127.0.0.1 /ad.yieldlab.net/
+127.0.0.1 /ads.dxkulture.com/
+127.0.0.1 /ads.servenobid.com/
+127.0.0.1 /ads.stickyadstv.com/
+127.0.0.1 /ads.yieldmo.com/
