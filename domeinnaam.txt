@@ -1,10 +1,10 @@
-0.0.0.0 /ads.youtube.com.*/
-0.0.0.0 /s.ah.nl.*/
-0.0.0.0 /m.ah.nl.*/
-0.0.0.0 /static.ah.nl.*/
-0.0.0.0 /execution-ci360.ah.nl.*/
-0.0.0.0 /cloud.bluestacks.com.*/
-0.0.0.0 /www.advertising.yahooinc.com.*/
+0.0.0.0 /ads.youtube.com.*/$client=127.0.0.1,dnstype=A
+0.0.0.0 /s.ah.nl.*/$client=127.0.0.1,dnstype=A
+0.0.0.0 /m.ah.nl.*/$client=127.0.0.1,dnstype=A
+0.0.0.0 /static.ah.nl.*/$client=127.0.0.1,dnstype=A
+0.0.0.0 /execution-ci360.ah.nl.*/$client=127.0.0.1,dnstype=A
+0.0.0.0 /cloud.bluestacks.com.*/$client=127.0.0.1,dnstype=A
+0.0.0.0 /www.advertising.yahooinc.com.*/$client=127.0.0.1,dnstype=A
 0.0.0.0 /advertising-api-eu.amazon.com.*/$client=127.0.0.1,dnstype=A
 0.0.0.0 /nl.yfood.eu.*/$client=127.0.0.1,dnstype=A
 0.0.0.0 /www.flexispot.nl.*/$client=127.0.0.1,dnstype=A
