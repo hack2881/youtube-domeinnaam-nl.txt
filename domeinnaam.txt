@@ -478,3 +478,4 @@
 /watch.by.*/
 /watch.bz.*/
 /watch.ca.*/
+/adservice.google.com.*/
