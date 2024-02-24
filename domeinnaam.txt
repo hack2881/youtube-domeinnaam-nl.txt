@@ -21,6 +21,7 @@
 /ad-delivery.net.*/
 /ad.turn.com.*/
 /ade.googlesyndication.com.*/
+/adservice.google.com.*/
 /ads.pubmatic.com.*/
 /ads.servenobid.com/
 /ns-1160.awsdns-17.org.*/
@@ -478,4 +479,17 @@
 /watch.by.*/
 /watch.bz.*/
 /watch.ca.*/
-/adservice.google.com.*/
+/admob.mobi.*/
+/adwords.com.*/
+/admob.az.*/
+/admob.biz.*/
+/admob.cn.*/
+/admob.co.*/
+/admob.com.*/
+/admob.de.*/
+/admob.dk.*/
+/admob.es.*/
+/admob.eu.*/
+/admob.fi.*/
+/admob.fr.*/
+/admob.gr.*/
