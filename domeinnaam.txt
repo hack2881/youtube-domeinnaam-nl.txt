@@ -459,7 +459,7 @@
 /rr3---sn-5hne6nsd.gvt1.com.*/
 /rr4---sn-5hne6nsd.gvt1.com.*/
 /rr5---sn-5hne6nsd.gvt1.com.*/
-/watch?v=IjbDwOeSsAU&ab_channel=DJFesta254.*/
+||watch?v=IjbDwOeSsAU&ab_channel=DJFesta254^
 /v0n0.nic.watch.*/
 /v0n1.nic.watch.*/
 /v0n2.nic.watch.*/
