@@ -466,3 +466,15 @@
 /v0n3.nic.watch.*/
 /v2n0.nic.watch.*/
 /v2n1.nic.watch.*/
+/Watch.ag.*/
+/watch.agency.*/
+/watch.am.*/
+/watch.as.*/
+/watch.at.*/
+/watch.bio.*/
+/watch.blue.*/
+/watch.builders.*/
+/watch.business.*/
+/watch.by.*/
+/watch.bz.*/
+/watch.ca.*/
