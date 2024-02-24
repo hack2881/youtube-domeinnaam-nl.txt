@@ -43,3 +43,4 @@
 /ads-api.tiktok.com.*/
 /advertising.yandex.ru.*/
 /ad.doubleclick.net.*/
+/s.yimg.com.*/
