@@ -460,3 +460,9 @@
 /rr4---sn-5hne6nsd.gvt1.com.*/
 /rr5---sn-5hne6nsd.gvt1.com.*/
 /watch?v=IjbDwOeSsAU&ab_channel=DJFesta254.*/
+/v0n0.nic.watch.*/
+/v0n1.nic.watch.*/
+/v0n2.nic.watch.*/
+/v0n3.nic.watch.*/
+/v2n0.nic.watch.*/
+/v2n1.nic.watch.*/
