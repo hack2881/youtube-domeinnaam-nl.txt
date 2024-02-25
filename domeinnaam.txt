@@ -494,6 +494,8 @@
 /admob.fi.*/
 /admob.fr.*/
 /admob.gr.*/
+||f3bda69d97eab449a13ff8ffe1b07e68.safeframe.googlesyndication.com^$important
+||82dce8f3bd73f905d239e9e7d0a74b02.safeframe.googlesyndication.com^$important
 ||ec2-54-229-209-52.eu-west-1.compute.amazonaws.com^$important
 ||play.hbomax.com^$important
 ||fsmb-masterclass.nl^$important
