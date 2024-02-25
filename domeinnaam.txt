@@ -498,3 +498,4 @@
 ||play.hbomax.com^$important
 ||fsmb-masterclass.nl^$important
 ||cdn-main.plus500.com^$important
+/ccp.greenhousegroup.com.*/
