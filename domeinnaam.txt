@@ -499,3 +499,4 @@
 ||fsmb-masterclass.nl^$important
 ||cdn-main.plus500.com^$important
 /ccp.greenhousegroup.com.*/
+/ws.pubble.nl.*/
