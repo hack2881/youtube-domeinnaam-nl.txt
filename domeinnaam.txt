@@ -1,3 +1,4 @@
+/s.youtube.com.*/
 /ads.youtube.com.*/
 /s.ah.nl.*/
 /m.ah.nl.*/
@@ -493,3 +494,7 @@
 /admob.fi.*/
 /admob.fr.*/
 /admob.gr.*/
+||ec2-54-229-209-52.eu-west-1.compute.amazonaws.com^$important
+||play.hbomax.com^$important
+||fsmb-masterclass.nl^$important
+||cdn-main.plus500.com^$important
