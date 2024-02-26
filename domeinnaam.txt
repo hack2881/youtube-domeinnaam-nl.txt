@@ -522,3 +522,6 @@
 /ads.yieldmo.com.*/
 /adservice.google.com.*/
 /adsmarketingfrontend-pa.clients6.google.com.*/
+||t878uki.impervadns.net^$important
+||v=spf1 -all^$important
+/play.google.com.*/
