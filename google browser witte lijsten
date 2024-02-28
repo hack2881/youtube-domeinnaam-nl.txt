@@ -80,8 +80,6 @@
 @@|accounts.youtube.com^$important
 @@|redirector.googlevideo.com^$important
 @@|suggestqueries-clients6.youtube.com^$important
-@@|ade.googlesyndication.com^$important
-@@|suggestqueries-clients6.youtube.com^$important
 ===================================================
 @@|*.ytimg.com^$important
 @@|*.www.youtube.com^$important
