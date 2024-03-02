@@ -494,6 +494,7 @@
 /admob.fi.*/
 /admob.fr.*/
 /admob.gr.*/
+||7f99ad0a0e8d70d4f0035235a9a0460f.safeframe.googlesyndication.com^$important
 ||f3bda69d97eab449a13ff8ffe1b07e68.safeframe.googlesyndication.com^$important
 ||82dce8f3bd73f905d239e9e7d0a74b02.safeframe.googlesyndication.com^$important
 ||ec2-54-229-209-52.eu-west-1.compute.amazonaws.com^$important
