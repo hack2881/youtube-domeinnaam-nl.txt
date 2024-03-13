@@ -78,8 +78,8 @@
 @@|play.googleapis.com^$important
 @@|media.s-bol.com^$important
 @@||s.s-bol.com^$important
-@@/s.i.ytimg.com.*/
-@@/i.ytimg.com.*/
+@@|s.i.ytimg.com^$important
+@@|i.ytimg.com^$important
 @@|ai.ytimg.com^$important
 @@|i1.ytimg.com^$important
 @@|i2.ytimg.com^$important
@@ -102,12 +102,12 @@
 @@|youtube-nocookie.com^$important
 @@|youtube-ui.l.google.com^$important
 @@|youtube.com^$important
-@@/youtubei.googleapis.com.*/
+@@|youtubei.googleapis.com^$important
 @@|yt-dl.org^$important
 @@|yt3.googleusercontent.com^$important
 @@|yt1.ggpht.com^$important
 @@|yt2.ggpht.com^$important
-@@/yt3.ggpht.com.*/
+@@|yt3.ggpht.com^$important
 @@|yt4.ggpht.com^$important
 @@|yt5.ggpht.com^$important
 @@|yt6.ggpht.com^$important
@@ -118,6 +118,3 @@
 @@|facvicon-yt3.ggpht.com^$important
 @@|facvicon-yt3.ggpht.com^$important
 @@|facvicon-www.youtube.com^$important
-@@/i.ytimg.com.*/
-@@/youtubei.googleapis.com.*/
-@@/m.youtube.com.*/
