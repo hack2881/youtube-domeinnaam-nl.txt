@@ -78,7 +78,7 @@
 @@|play.googleapis.com^$important
 @@|media.s-bol.com^$important
 @@||s.s-bol.com^$important
-@@|*.i.ytimg.com^$important
+@@|i.ytimg.com^$important
 @@|ai.ytimg.com^$important
 @@|i1.ytimg.com^$important
 @@|i2.ytimg.com^$important
