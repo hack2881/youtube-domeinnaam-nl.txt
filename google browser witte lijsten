@@ -77,7 +77,7 @@
 @@/cdn10.trafficjunky.net.*/$important
 @@|play.googleapis.com^$important
 @@|media.s-bol.com^$important
-@@||s.s-bol.com^$important
+@@|s.s-bol.com^$important
 @@|s.i.ytimg.com^$important
 @@|i.ytimg.com^$important
 @@|ai.ytimg.com^$important
@@ -88,14 +88,14 @@
 @@|i9.ytimg.com^$important
 @@||play-ti.ytimg.com^$important
 @@|accounts.youtube.com^$important
-@@||redirector.googlevideo.com^$important
+@@|redirector.googlevideo.com^$important
 @@|suggestqueries-clients6.youtube.com^$important
 ===================================================
 @@|*.ytimg.com^$important
 @@|*.www.youtube.com^$important
 @@|yewtu.be^$important
 @@|yimg.com^$important
-@@||www.youtube.com^
+@@|www.youtube.com^$important
 @@|youpornpremium.com^$important
 @@|youtu.be^$important
 @@|youtube-dl.org^$important
