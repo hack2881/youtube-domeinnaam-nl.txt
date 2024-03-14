@@ -100,7 +100,7 @@
 @@|youtube-dl.org^$important
 @@|youtube-nocookie.com^$important
 @@|youtube-ui.l.google.com^$important
-@@|youtube.com^$important
+@@/youtube.com.*/
 @@|youtubei.googleapis.com^$important
 @@|yt-dl.org^$important
 @@|yt3.googleusercontent.com^$important
