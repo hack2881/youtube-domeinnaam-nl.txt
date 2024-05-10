@@ -119,3 +119,8 @@
 @@|facvicon-www.youtube.com^$important
 @@|accounts.youtube.com^$important
 @@/play-fe.googleapis.com.*/
+@@||gtv1\.com^$document,~third-party
+@@||gtv2\.com^$document,~third-party
+@@||gtv3\.com^$document,~third-party
+@@||gtv4\.com^$document,~third-party
+@@||gtv5\.com^$document,~third-party
