@@ -47,6 +47,7 @@
 /advertising.yandex.ru.*/
 /ad.doubleclick.net.*/
 /s.yimg.com.*/
+/i.ytimg.com./
 ======================================
 /rr1---sn-5hnekn7z.googlevideo.com.*/
 /rr2---sn-5hnekn7z.googlevideo.com.*/
