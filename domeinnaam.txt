@@ -526,3 +526,8 @@
 /adsmarketingfrontend-pa.clients6.google.com.*/
 ||t878uki.impervadns.net^$important
 ||v=spf1 -all^$important
+/rr1---sn-uhvcpaxoa-guhe.googlevideo.com/
+/rr2---sn-uhvcpaxoa-guhe.googlevideo.com/
+/rr3---sn-uhvcpaxoa-guhe.googlevideo.com/
+/rr4---sn-uhvcpaxoa-guhe.googlevideo.com/
+/rr5---sn-uhvcpaxoa-guhe.googlevideo.com/
