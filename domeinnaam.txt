@@ -532,3 +532,5 @@
 /rr3---sn-uhvcpaxoa-guhe.googlevideo.com/
 /rr4---sn-uhvcpaxoa-guhe.googlevideo.com/
 /rr5---sn-uhvcpaxoa-guhe.googlevideo.com/
+||rr---sn^
+||r---sn^
