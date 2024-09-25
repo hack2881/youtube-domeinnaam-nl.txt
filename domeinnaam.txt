@@ -534,6 +534,7 @@
 /rr5---sn-uhvcpaxoa-guhe.googlevideo.com/
 ||rr---sn^
 ||r---sn^
+# [ads.youtube.com]
 ||youtube.com^third-party
 ||youtube-nocookie.com^third-party
 ||ytimg.com^third-party
