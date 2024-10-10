@@ -880,3 +880,5 @@ advertisingcrews.pl
 ||lfm-x.xyz^
 ||lfm-z.xyz^
 ||ja-in-f100.1e100.net^
+||sof01s11-in-f110.1e100.net^
+||ams17s08-in-f14.1e100.net^
