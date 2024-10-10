@@ -863,7 +863,7 @@ advertisingcrews.pl
 ||rt-in-f105.1e100.net^
 ||rt-in-f106.1e100.net^
 ||rt-in-f147.1e100.net^
-||59-80-162-69.static.reverse.lstn.net^
+||static.reverse.lstn.net^
 ||dia-a.xyz^
 ||dia-b.xyz^
 ||dia-c.xyz^
