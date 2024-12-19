@@ -1,6 +1,13 @@
 ||edgedl*.me.gvt1.com^
 ||play.google*.com^
 ||csp.withgoogle*.com^
+||s.anwb*.nl/wegenwacht^
+||m.anwb*.nl/wegenwacht^
+||s.allianzdirect*.nl^
+||m.allianzdirect*.nl^
+||clients4*.google.com^
+||s.nescafe*.com/nl/koffie/koffie-app^
+||m.nescafe*.com/nl/koffie/koffie-app^
 ||s.greetz*.nl^
 ||m.greetz*.nl^
 ||s.ytimg*.com^
