@@ -1,6 +1,16 @@
 ||edgedl*.me.gvt1.com^
 ||play.google*.com^
 ||csp.withgoogle*.com^
+||s.greetz*.nl^
+||m.greetz*.nl^
+||s.ytimg*.com^
+||s.kruidvat*.nl^
+||m.kruidvat*.nl^
+||s.nl.onecasino*.com^
+||m.nl.onecasino*.com^
+||ns2.openprovider*.be^
+||ns3.openprovider*.eu^
+||ns1.openprovider*.nl^
 ||s.plus*.nl^
 ||m.plus*.nl^
 ||s.closermusic*.com/start/trial^
