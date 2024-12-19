@@ -1,16 +1,5 @@
 ||werkinoss*.nl^
 -----------------
-|rr1---sn-32o-1the.gvt1*.com^
-|rr2---sn-32o-1the.gvt1*.com^
-|rr3---sn-32o-1the.gvt1*.com^
-|rr4---sn-32o-1the.gvt1*.com^
-|rr5---sn-32o-1the.gvt1*.com^
------------------------
-|clients1.google*.com^
-|clients2.google*.com^
-|clients3.google*.com^
-|clients4.google*.com^
------------------------
 |ogads-pa.clients1.google*.com^
 |ogads-pa.clients2.google*.com^
 |ogads-pa.clients3.google*.com^
