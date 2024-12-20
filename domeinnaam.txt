@@ -12,6 +12,9 @@
 ||youtube.com/api/stats/ads?*odido*
 ||googlevideo.com/videoplayback?*odido*
 ----------------------------------------
+||clients*.google.com^
+||rr*---sn-*.googlevideo.com^
+--------------------------------
 |ogads-pa.clients1.google*.com^
 |ogads-pa.clients2.google*.com^
 |ogads-pa.clients3.google*.com^
