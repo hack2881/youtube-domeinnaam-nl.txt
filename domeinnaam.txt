@@ -12,6 +12,11 @@
 ||youtube.com/api/stats/ads?*odido*
 ||googlevideo.com/videoplayback?*odido*
 ----------------------------------------
+||youtube.com/pagead/*bol*
+||youtube.com/get_video_info?*bol*
+||youtube.com/api/stats/ads?*bol*
+||googlevideo.com/videoplayback?*bol*
+--------------------------------------
 ||clients*.google.com^
 ||rr*---sn-*.googlevideo.com^
 --------------------------------
