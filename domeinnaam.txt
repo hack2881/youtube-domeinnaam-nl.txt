@@ -18,6 +18,7 @@
 ||googlevideo.com/videoplayback?*bol*
 --------------------------------------
 ||clients*.google.com^
+-----------------------
 ||rr*---sn-*.googlevideo.com^
 --------------------------------
 |ogads-pa.clients1.google*.com^
