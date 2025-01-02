@@ -2,6 +2,10 @@
 ||play.google*.com^
 ||csp.withgoogle*.com^
 -----------------------
+||youtube.com##.ads-ad
+||youtube.com##.ad-container
+||youtube.com##.ad-placement
+-----------------------------
 ||youtube.com/pagead/*temu.com*
 ||youtube.com/get_video_info?*temu.com*
 ||youtube.com/api/stats/ads?*temu.com*
