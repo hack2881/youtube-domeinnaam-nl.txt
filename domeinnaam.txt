@@ -1,3 +1,5 @@
+||googlevideo.com^$media,redirect=noopmp4-0s
+-----------------------
 ||edgedl*.me.gvt1.com^
 ||play.google*.com^
 ||csp.withgoogle*.com^
