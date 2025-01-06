@@ -1,4 +1,7 @@
+||rr2---sn-32o-1the.googlevideo.com^
+||rr3---sn-32o-1the.googlevideo.com^
 ||rr4---sn-32o-1the.googlevideo.com^
+||rr5---sn-32o-1the.googlevideo.com^
 ||sn-32o-1the.googlevideo.com^
 ||*.googlevideo.com^
 ||googlevideo.com^$media,redirect=noopmp4-0s
