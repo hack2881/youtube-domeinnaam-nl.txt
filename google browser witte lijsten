@@ -124,3 +124,35 @@
 @@||prod.log.stb.itvonline.nl^
 @@|titok.com^
 @@|m.youtube.com^
+! --------- YOUTUBE ALGEMEEN ---------
+@@/^https?:\/\/(www\.)?youtube\.com\/.*/$important
+@@/^https?:\/\/m\.youtube\.com\/.*/$important
+@@/^https?:\/\/youtubei\.googleapis\.com\/.*/$important
+@@/^https?:\/\/youtubeadservices\.com\/.*/$important
+
+! --------- YOUTUBE VIDEOADVERTENTIES ---------
+@@/^https?:\/\/([a-z0-9.-]+\.)?googlevideo\.com\/.*/$important
+@@/^https?:\/\/youtubei\.googleapis\.com\/v1\/(log_event|ads).*/$important
+
+! --------- YOUTUBE APP ---------
+@@/^https?:\/\/ytimg\.com\/.*/$important
+@@/^https?:\/\/pagead2\.googlesyndication\.com\/.*/$important
+@@/^https?:\/\/googleads\.g\.doubleclick\.net\/.*/$important
+@@/^https?:\/\/adservice\.google\.com\/.*/$important
+
+! --------- SPECIFIEKE TRACKERS EN ADVERTENTIES ---------
+@@/^https?:\/\/ads\.youtube\.com\/.*/$important
+@@/^https?:\/\/partner\.googleadservices\.com\/.*/$important
+@@/^https?:\/\/ad\.doubleclick\.net\/.*/$important
+@@/^https?:\/\/doubleclick\.net\/.*/$important
+@@/^https?:\/\/googlesyndication\.com\/.*/$important
+
+! --------- REGIO-SPECIFIEKE DOMEINEN ---------
+@@/^https?:\/\/nl\.youtube\.com\/.*/$important
+@@/^https?:\/\/youtube\.nl\/.*/$important
+
+! --------- OVERIGE GERELATEERDE URL'S ---------
+@@/^https?:\/\/s\.youtube\.com\/.*/$important
+@@/^https?:\/\/static\.doubleclick\.net\/.*/$important
+@@/^https?:\/\/video-stats\.video\.google\.com\/.*/$important
+@@/^https?:\/\/redirector\.googlevideo\.com\/.*/$important
