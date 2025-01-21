@@ -124,35 +124,40 @@
 @@||prod.log.stb.itvonline.nl^
 @@|titok.com^
 @@|m.youtube.com^
+
 ! --------- YOUTUBE ALGEMEEN ---------
-@@/^https?:\/\/(www\.)?youtube\.com\/.*/$important
-@@/^https?:\/\/m\.youtube\.com\/.*/$important
-@@/^https?:\/\/youtubei\.googleapis\.com\/.*/$important
-@@/^https?:\/\/youtubeadservices\.com\/.*/$important
+@@||youtube.com^$important
+@@||www.youtube.com^$important
+@@||m.youtube.com^$important
+@@||youtubei.googleapis.com^$important
+@@||youtubeadservices.com^$important
 
 ! --------- YOUTUBE VIDEOADVERTENTIES ---------
-@@/^https?:\/\/([a-z0-9.-]+\.)?googlevideo\.com\/.*/$important
-@@/^https?:\/\/youtubei\.googleapis\.com\/v1\/(log_event|ads).*/$important
+@@||googlevideo.com^$important
+@@||*.googlevideo.com^$important
+@@||rr4---sn-32o-1the.googlevideo.com^$important
+@@||youtubei.googleapis.com/v1/log_event^$important
+@@||youtubei.googleapis.com/v1/ads^$important
 
 ! --------- YOUTUBE APP ---------
-@@/^https?:\/\/ytimg\.com\/.*/$important
-@@/^https?:\/\/pagead2\.googlesyndication\.com\/.*/$important
-@@/^https?:\/\/googleads\.g\.doubleclick\.net\/.*/$important
-@@/^https?:\/\/adservice\.google\.com\/.*/$important
+@@||ytimg.com^$important
+@@||pagead2.googlesyndication.com^$important
+@@||googleads.g.doubleclick.net^$important
+@@||adservice.google.com^$important
 
 ! --------- SPECIFIEKE TRACKERS EN ADVERTENTIES ---------
-@@/^https?:\/\/ads\.youtube\.com\/.*/$important
-@@/^https?:\/\/partner\.googleadservices\.com\/.*/$important
-@@/^https?:\/\/ad\.doubleclick\.net\/.*/$important
-@@/^https?:\/\/doubleclick\.net\/.*/$important
-@@/^https?:\/\/googlesyndication\.com\/.*/$important
+@@||ads.youtube.com^$important
+@@||partner.googleadservices.com^$important
+@@||ad.doubleclick.net^$important
+@@||doubleclick.net^$important
+@@||googlesyndication.com^$important
 
-! --------- REGIO-SPECIFIEKE DOMEINEN ---------
-@@/^https?:\/\/nl\.youtube\.com\/.*/$important
-@@/^https?:\/\/youtube\.nl\/.*/$important
+! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
+@@||nl.youtube.com^$important
+@@||youtube.nl^$important
 
 ! --------- OVERIGE GERELATEERDE URL'S ---------
-@@/^https?:\/\/s\.youtube\.com\/.*/$important
-@@/^https?:\/\/static\.doubleclick\.net\/.*/$important
-@@/^https?:\/\/video-stats\.video\.google\.com\/.*/$important
-@@/^https?:\/\/redirector\.googlevideo\.com\/.*/$important
+@@||s.youtube.com^$important
+@@||static.doubleclick.net^$important
+@@||video-stats.video.google.com^$important
+@@||redirector.googlevideo.com^$important
