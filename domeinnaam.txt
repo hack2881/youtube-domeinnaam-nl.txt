@@ -1212,6 +1212,7 @@ advertisingcrews.pl
 ||rr13---sn-32o-1the.googlevideo.com^
 ||rr14---sn-32o-1the.googlevideo.com^
 ||rr15---sn-32o-1the.googlevideo.com^
+--------------------------------------
 ||rr1---sn-32o-guh6.googlevideo.com^
 ||rr2---sn-32o-guh6.googlevideo.com^
 ||rr3---sn-32o-guh6.googlevideo.com^
@@ -1227,6 +1228,7 @@ advertisingcrews.pl
 ||rr13---sn-32o-guh6.googlevideo.com^
 ||rr14---sn-32o-guh6.googlevideo.com^
 ||rr15---sn-32o-guh6.googlevideo.com^
+--------------------------------------
 ||rr1---sn-32o-1the.googlevideo.com^
 ||rr2---sn-32o-1the.googlevideo.com^
 ||rr3---sn-32o-1the.googlevideo.com^
@@ -1242,3 +1244,19 @@ advertisingcrews.pl
 ||rr13---sn-32o-1the.googlevideo.com^
 ||rr14---sn-32o-1the.googlevideo.com^
 ||rr15---sn-32o-1the.googlevideo.com^
+-------------------------------------------
+||rr1---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr2---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr3---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr4---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr5---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr6---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr7---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr8---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr9---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr10---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr11---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr12---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr13---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr14---sn-uhvcpaxoa-guhe.googlevideo.com^
+||rr15---sn-uhvcpaxoa-guhe.googlevideo.com^
