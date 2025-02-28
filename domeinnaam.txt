@@ -1,3 +1,11 @@
+||*/ad*
+||*/ads*
+||*/track*
+||*/tracking*
+||*/banner*
+||*/promo*
+||*/sponsored*
+----------------
 ||temu.com/*ad*
 ||ziggo.nl/*ad*
 ||bol.com/*ad*
