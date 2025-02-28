@@ -90,7 +90,7 @@
 --------------------------------
 ||ogads-pa.clients1*.google.com^
 ||ogads-pa.clients2*.google.com^
-|vogads-pa.clients3*.google.com^
+||ogads-pa.clients3*.google.com^
 ||ogads-pa.clients4*.google.com^
 ||ogads-pa.clients5*.google.com^
 ||ogads-pa.clients6*.google.com^
