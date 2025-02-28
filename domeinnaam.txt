@@ -1331,4 +1331,3 @@ m.youtube.com##ytd-promoted-video-renderer
 m.youtube.com##ytd-search-pyv-renderer
 m.youtube.com##ytd-companion-slot-renderer
 m.youtube.com##ytd-ad-slot-renderer
-------------------------------------
