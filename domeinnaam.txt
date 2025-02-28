@@ -1,3 +1,16 @@
+||temu.com/*ad*
+||ziggo.nl/*ad*
+||bol.com/*ad*
+||odido.nl/*ad*
+||temu.com/*track*
+||ziggo.nl/*track*
+||bol.com/*track*
+||odido.nl/*track*
+-------------------------------
+||kevintimmerdaytrading.nl/*ad*
+||kevintimmerdaytrading.nl/*track*
+||kevintimmerdaytrading.nl/*banner*
+------------------------------------
 ||sn-32o-1the.googlevideo.com^
 ||*.googlevideo.com^
 ||googlevideo.com^$media,redirect=noopmp4-0s
