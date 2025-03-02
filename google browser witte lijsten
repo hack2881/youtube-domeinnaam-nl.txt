@@ -1,8 +1,6 @@
 ! --------- YOUTUBE ALGEMEEN ---------
 @@|youtube.com^$important
 @@|www.youtube.com^$important
-@@|youtubei.googleapis.com^$important
-@@|youtubeadservices.com^$important
 
 ! --------- YOUTUBE APP ---------
 @@|ytimg.com^$important
