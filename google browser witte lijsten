@@ -10,6 +10,3 @@
 ! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
 @@|nl.youtube.com^$important
 @@|youtube.nl^$important
-
-! --------- OVERIGE GERELATEERDE URL'S ---------
-@@|redirector.googlevideo.com^$important
