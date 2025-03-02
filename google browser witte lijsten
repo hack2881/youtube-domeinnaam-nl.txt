@@ -5,25 +5,11 @@
 @@|youtubei.googleapis.com^$important
 @@|youtubeadservices.com^$important
 
-! --------- YOUTUBE VIDEOADVERTENTIES ---------
-@@|googlevideo.com^$important
-@@|*.googlevideo.com^$important
-@@|rr4---sn-32o-1the.googlevideo.com^$important
-@@|youtubei.googleapis.com/v1/log_event^$important
-@@|youtubei.googleapis.com/v1/ads^$important
-
 ! --------- YOUTUBE APP ---------
 @@|ytimg.com^$important
 @@|pagead2.googlesyndication.com^$important
 @@|googleads.g.doubleclick.net^$important
 @@|adservice.google.com^$important
-
-! --------- SPECIFIEKE TRACKERS EN ADVERTENTIES ---------
-@@|ads.youtube.com^$important
-@@|partner.googleadservices.com^$important
-@@|ad.doubleclick.net^$important
-@@|doubleclick.net^$important
-@@|googlesyndication.com^$important
 
 ! --------- BLOKKEREN VAN SPECIFIEKE REGIO'S ---------
 @@|nl.youtube.com^$important
