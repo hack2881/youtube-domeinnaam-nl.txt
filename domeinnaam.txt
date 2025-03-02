@@ -21,6 +21,7 @@
 ------------------------------------
 ||sn-32o-1the.googlevideo.com^
 ||*.googlevideo.com^
+||googlevideo.com^
 ||googlevideo.com^$media,redirect=noopmp4-0s
 ---------------------------------------------
 ||edgedl*.me.gvt1.com^
