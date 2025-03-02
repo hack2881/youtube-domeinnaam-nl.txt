@@ -1,5 +1,5 @@
 ! --------- YOUTUBE ALGEMEEN ---------
-@@|youtube*.com^$important
+@@|*.youtube.com^$important
 
 ! --------- YOUTUBE APP ---------
 @@|ytimg*.com^$important
