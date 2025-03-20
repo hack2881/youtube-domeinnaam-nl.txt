@@ -3,3 +3,10 @@
 
 ! --------- YOUTUBE APP ---------
 @@|ytimg*.com^$important
+
+! --------- play store ---------
+@@||play.google.com^
+@@||play.googleapis.com^  
+@@||gstatic.com^  
+@@||play-lh.googleusercontent.com^  
+@@||android.clients.google.com^
