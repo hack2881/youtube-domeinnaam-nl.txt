@@ -14,7 +14,7 @@
 ||kevintimmerdaytrading.nl/*banner*
 ------------------------------------
 ||edgedl*.me.gvt1.com^
-||play.google*.com^
+|play.google*.com^
 ||csp.withgoogle*.com^
 -----------------------
 ||youtube.com##.ads-ad
