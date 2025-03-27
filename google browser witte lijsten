@@ -1,6 +1,3 @@
-! --------- YOUTUBE ALGEMEEN ---------
-@@|youtube*.com^$important
-
 ! --------- YOUTUBE APP ---------
 @@|ytimg*.com^$important
 
