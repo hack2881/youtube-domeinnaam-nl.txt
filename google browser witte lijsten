@@ -9,4 +9,5 @@
 @@|android.clients.google.com^
 
 ! --------- google ads --------
-@@||googleadservices*.com^
+@@||googleadservices.com^
+@@||pagead2*.googleadservices.com^
