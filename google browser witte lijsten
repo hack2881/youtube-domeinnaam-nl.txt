@@ -9,5 +9,5 @@
 @@|android.clients.google.com^
 
 ! --------- google ads --------
-@@||googleadservices.com^
-@@||pagead2*.googleadservices.com^
+@@||googleadservices.com^$important
+@@||pagead2*.googleadservices.com^$important
