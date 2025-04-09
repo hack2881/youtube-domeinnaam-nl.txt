@@ -13,5 +13,5 @@
 @@|googleadservices*.com^$important
 @@|pagead2*.googleadservices.com^$important
 
-! --------- doubleclick.net ---------
+! --------- doubleclick.net --------
 @@|ad.doubleclick.net^$important
