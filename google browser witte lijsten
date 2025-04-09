@@ -12,3 +12,6 @@
 ! --------- google ads --------
 @@|googleadservices*.com^$important
 @@|pagead2*.googleadservices.com^$important
+
+! --------- doubleclick.net ---------
+@@|ad.doubleclick.net^$important
