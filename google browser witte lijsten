@@ -1,16 +1,2 @@
 ! --------- YOUTUBE APP ---------
 @@|i.ytimg.com^$important
-
-! --------- play store ---------
-@@|play.google.com^
-@@|play.googleapis.com^  
-@@|gstatic.com^  
-@@|play-lh.googleusercontent.com^  
-@@|android.clients.google.com^
-
-! --------- google ads --------
-@@|googleadservices*.com^$important
-@@|pagead2*.googleadservices.com^$important
-
-! --------- doubleclick.net --------
-@@|ad*.doubleclick.net^$important
