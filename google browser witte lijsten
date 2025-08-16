@@ -1,6 +1,6 @@
 ! --------- YOUTUBE APP ---------
-@@|ytimg*.com^$important
-@@|youtube*.com^$important
+@@|i.ytimg.com^$important
+
 
 ! --------- play store ---------
 @@|play.google.com^
