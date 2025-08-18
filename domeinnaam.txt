@@ -69,14 +69,14 @@
 ||securepubads.g.doubleclick.net/*kruidvat.nl*
 
 ! AdGuard YouTube Ads Blocklist
-! Datum: 2025-08-19
-! Beschrijving: Blokkeert bol.com, Hero Wars en Google Ads domeinen op YouTube
+! Datum: 2025-08-19 (update)
+! Beschrijving: Blokkeert bol.com, Hero Wars, Google Ads domeinen en extra bronnen die vaak gebruikt worden voor YouTube advertenties
 
 ! --- bol.com ads ---
 ||bol.com^$third-party
 ||ad.bol.com^
 ||ads.bol.com^
-||tracking.bol.com^
+||tracking.bol.com^ 
 ||clicks.bol.com^
 ||partner.bol.com^
 
@@ -90,8 +90,17 @@
 ! --- Google Ads (YouTube) ---
 ||googleads.g.doubleclick.net^
 ||pagead2.googlesyndication.com^
+||pagead.l.doubleclick.net^
+||youtube.com/api/stats/ads^
+||youtube.com/pagead/^
 ||adservice.google.com^
 ||adservice.google.nl^
+
+! --- Extra advertentie-/trackingdomeinen (YouTube gerelateerd) ---
+||googletagservices.com^
+||googletagmanager.com^$third-party
+||google-analytics.com^$third-party
+||gstaticadssl.l.google.com^
 
 ------------------------------
 ||rr---sn^
