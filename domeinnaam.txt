@@ -70,7 +70,7 @@
 
 ! AdGuard YouTube Ads Blocklist
 ! Datum: 2025-08-19 (update)
-! Beschrijving: Blokkeert bol.com, Hero Wars, Google Ads domeinen en extra bronnen die vaak gebruikt worden voor YouTube advertenties
+! Beschrijving: Blokkeert bol.com, Hero Wars, Taonga en Google Ads domeinen op YouTube
 
 ! --- bol.com ads ---
 ||bol.com^$third-party
@@ -86,6 +86,13 @@
 ||herowarscentral.com^$third-party
 ||nextersglobal.com^$third-party
 ||nexters.com^$third-party
+
+! --- Taonga: The Island Farm ads ---
+||taongafarm.com^$third-party
+||taonga.com^$third-party
+||islandfarmgame.com^$third-party
+||vizor-apps.com^$third-party
+||vizor-interactive.com^$third-party
 
 ! --- Google Ads (YouTube) ---
 ||googleads.g.doubleclick.net^
