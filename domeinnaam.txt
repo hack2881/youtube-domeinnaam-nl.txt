@@ -1,7 +1,7 @@
 ||googlevideo.com^third-party
 ||youtube.com^third-party
 ||googleads.g.doubleclick.net^third-party
-||ytimg.com^third-party
+||i.ytimg.com^third-party
 ||yt3.ggpht.com^third-party
 ||fonts.googleapis.com^third-party
 ||google.com^third-party
