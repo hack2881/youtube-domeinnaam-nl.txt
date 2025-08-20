@@ -1,3 +1,9 @@
+||googleads.g.doubleclick.net^third-party
+||ytimg.com^third-party
+||yt3.ggpht.com^third-party
+||fonts.googleapis.com^third-party
+||google.com^third-party
+||gstatic.com^third-party
 ||youtube.com/gaming^
 ||youtube.com/watch?v=*game*
 ||temu.com/*ad*
@@ -12,6 +18,7 @@
 ||kevintimmerdaytrading.nl/*ad*
 ||kevintimmerdaytrading.nl/*track*
 ||kevintimmerdaytrading.nl/*banner*
+||kevintimmerdaytrading.nl^third-party
 ------------------------------------
 ||edgedl*.me.gvt1.com^
 ||csp.withgoogle*.com^
