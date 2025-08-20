@@ -106,13 +106,13 @@
 ||vizor-interactive.com^$third-party
 
 ! --- Google Ads (YouTube) ---
-||googleads.g.doubleclick.net^
-||pagead2.googlesyndication.com^
-||pagead.l.doubleclick.net^
-||youtube.com/api/stats/ads^
-||youtube.com/pagead/^
-||adservice.google.com^
-||adservice.google.nl^
+||googleads.g.doubleclick.net^third-party
+||pagead2.googlesyndication.com^third-party
+||pagead.l.doubleclick.net^third-party
+||youtube.com/api/stats/ads^third-party
+||youtube.com/pagead/^third-party
+||adservice.google.com^third-party
+||adservice.google.nl^third-party
 
 ! --- Extra advertentie-/trackingdomeinen (YouTube gerelateerd) ---
 ||googletagservices.com^
