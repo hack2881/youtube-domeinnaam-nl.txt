@@ -1,3 +1,4 @@
+||videos.ctfassets.net^third-party
 ||googleadservices.com^third-party
 ||googlevideo.com^third-party
 ||youtube.com^third-party
