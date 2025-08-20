@@ -1,3 +1,4 @@
+||googleadservices.com^third-party
 ||googlevideo.com^third-party
 ||youtube.com^third-party
 ||googleads.g.doubleclick.net^third-party
