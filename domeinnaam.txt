@@ -1,3 +1,4 @@
+||youtube.com^third-party
 ||googleads.g.doubleclick.net^third-party
 ||ytimg.com^third-party
 ||yt3.ggpht.com^third-party
