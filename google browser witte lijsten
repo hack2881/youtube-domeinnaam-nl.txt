@@ -1,14 +1,14 @@
 ! --------- YOUTUBE browser allow --------- !
 
-youtube.com
-www.youtube.com
-m.youtube.com
-s.youtube.com
-i.ytimg.com
-yt3.ggpht.com
-ytimg.l.google.com
-youtubei.googleapis.com
-googlevideo.com
-*.googlevideo.com
-clients1.google.com
-clients2.google.com
+||youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||s.youtube.com^
+||i.ytimg.com^
+||yt3.ggpht.com^
+||ytimg.l.google.com^
+||youtubei.googleapis.com^
+||googlevideo.com^
+||*.googlevideo.com^
+||clients1.google.com^
+||clients2.google.com^
