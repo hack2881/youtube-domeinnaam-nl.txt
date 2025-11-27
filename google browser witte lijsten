@@ -12,3 +12,6 @@
 ||*.googlevideo.com^
 ||clients1.google.com^
 ||clients2.google.com^
+
+!----app store iphone----!
+||apps.apple.com^
