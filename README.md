@@ -57,9 +57,9 @@ This list blocks:
 
 blocklist
 https://raw.githubusercontent.com/hack2881/youtube-domeinnaam-nl.txt/refs/heads/main/domeinnaam.txt
+
 whitelist
 https://raw.githubusercontent.com/hack2881/youtube-domeinnaam-nl.txt/refs/heads/main/youtube-whitelist
----
 
 ### Method 2 — Manual
 
