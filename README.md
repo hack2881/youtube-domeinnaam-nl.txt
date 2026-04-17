@@ -56,7 +56,7 @@ This list blocks:
 4. Add your RAW GitHub links:
 
 ```
-https://raw.githubusercontent.com/YOURNAME/adguard-youtube-list/main/youtube-adguard.txt
+https://raw.githubusercontent.com/hack2881/youtube-domeinnaam-nl.txt/refs/heads/main/domeinnaam.txt
 ```
 
 ---
