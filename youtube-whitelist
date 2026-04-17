@@ -1,4 +1,6 @@
-! --------- YOUTUBE browser allow --------- !
+! =========================
+! ✅ WHITELIST (ESSENTIAL)
+! =========================
 
 @@||youtubei.googleapis.com^$important
 @@||googlevideo.com^$important
