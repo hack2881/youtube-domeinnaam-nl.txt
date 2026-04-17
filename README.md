@@ -55,10 +55,10 @@ This list blocks:
 3. Click **Add filter by URL**
 4. Add your RAW GitHub links:
 
-```
+blocklist
 https://raw.githubusercontent.com/hack2881/youtube-domeinnaam-nl.txt/refs/heads/main/domeinnaam.txt
-```
-
+whitelist
+https://raw.githubusercontent.com/hack2881/youtube-domeinnaam-nl.txt/refs/heads/main/youtube-whitelist
 ---
 
 ### Method 2 — Manual
