@@ -1,0 +1,7 @@
+! --------- YOUTUBE browser allow --------- !
+
+@@||youtubei.googleapis.com^$important
+@@||googlevideo.com^$important
+@@||ytimg.com^$important
+@@||i.ytimg.com^$important
+@@||s.ytimg.com^$important
