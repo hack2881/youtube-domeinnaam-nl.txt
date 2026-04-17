@@ -1,3 +1,8 @@
+! Title: YouTube AdGuard Master List
+! Description: Blocks YouTube ads while keeping videos working
+! Author: Custom setup
+! Updated: 2026
+
 ! =========================
 ! 🚫 YOUTUBE ADS BLOCK
 ! =========================
