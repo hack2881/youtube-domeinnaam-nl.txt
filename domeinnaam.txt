@@ -27,3 +27,9 @@
 ||youtube.com/api/stats/qoe?*
 ||youtube.com/generate_204*
 ||youtube.com/pagead/interaction^
+
+||rr1---sn-u15hn5-5v.googlevideo.com^
+======================================
+||rr1---sn-aj4g55-5w.googlevideo.com^
+======================================
+||rr1---sn-5hne6nsr.c.youtube.com^
