@@ -33,3 +33,9 @@
 ||rr1---sn-aj4g55-5w.googlevideo.com^
 ======================================
 ||rr1---sn-5hne6nsr.c.youtube.com^
+=====================================
+||rr1---sn-4g5ednrl.googlevideo.com^
+=====================================
+||rr1---sn-5hnednsz.googlevideo.com^
+=====================================
+||rr1---sn-4g5edn6r.googlevideo.com^
