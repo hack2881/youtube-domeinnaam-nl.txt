@@ -45,3 +45,9 @@
 ||rr1---sn-4g5lznlk.googlevideo.com^
 =====================================
 ||rr1---sn-4g5e6nsr.googlevideo.com^
+======================================
+||rr1---sn-aj4g55-5w.googlevideo.com^
+======================================
+||rr1---sn-4g5e6nz7.googlevideo.com^
+======================================
+||rr1---sn-4g5ednz7.googlevideo.com^
