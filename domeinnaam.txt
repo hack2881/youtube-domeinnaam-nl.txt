@@ -7,6 +7,8 @@
 ! 🚫 YOUTUBE ADS BLOCK
 ! =========================
 ||doubleclick.net^
+||play.googleapis.com^
+||play-fe.googleapis.com^
 ||googleads.g.doubleclick.net^
 ||pagead2.googlesyndication.com^
 ||youtube.com/pagead^
