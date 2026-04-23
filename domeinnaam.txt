@@ -59,8 +59,7 @@ youtube.com##span:has-text(Ad)
 ! =========================
 ! 🚫 YOUTUBE ADS BLOCK
 ! =========================
-/ad.doubleclick.net
-.*/
+/ad.doubleclick.net.*/
 /play.googleapis.com.*/
 /googleads.g.doubleclick.net.*/
 /pagead2.googlesyndication.com.*/
