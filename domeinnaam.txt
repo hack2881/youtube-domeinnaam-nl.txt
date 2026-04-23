@@ -3,59 +3,6 @@
 ! Author: Custom setup
 ! Updated: 2026
 
-! === YouTube Sponsored / Ads Blocklist ===
-! Core ad domains
-||/googleads.g.doubleclick.net.*/^
-||/doubleclick.net.*/^
-||/pagead2.googlesyndication.com.*/^
-||/adservice.google.com.*/^
-||/adservice.google.nl.*/^
-||/ads.youtube.com.*/^
-
-! YouTube ad delivery & tracking
-||youtubei.googleapis.com/youtubei/v1/player/ad_break*
-||youtubei.googleapis.com/youtubei/v1/player/ads*
-||youtubei.googleapis.com/youtubei/v1/ad*
-||www.youtube.com/api/stats/ads*
-||www.youtube.com/pagead/*
-||www.youtube.com/get_midroll_info*
-
-! Video ad streams (IMPORTANT)
-||*.googlevideo.com/*ad*
-||*.googlevideo.com/*ads*
-||*.googlevideo.com/videoplayback?*oad*
-
-! Sponsored overlay / UI ads
-youtube.com##.ytp-ad-module
-youtube.com##.ytp-ad-player-overlay
-youtube.com##.ytp-ad-image-overlay
-youtube.com##.ytp-ad-text-overlay
-youtube.com##.ytp-ad-overlay-container
-
-! Sponsored cards / suggestions
-youtube.com##ytd-promoted-video-renderer
-youtube.com##ytd-display-ad-renderer
-youtube.com##ytd-companion-slot-renderer
-youtube.com##ytd-ad-slot-renderer
-
-! Homepage / feed ads
-youtube.com##ytd-rich-item-renderer:has(ytd-display-ad-renderer)
-youtube.com##ytd-rich-section-renderer:has(ytd-statement-banner-renderer)
-
-! Search result ads
-youtube.com##ytd-video-renderer:has([aria-label="Ad"])
-youtube.com##ytd-video-renderer:has([badge-style-type="AD"])
-
-! Mobile (m.youtube.com)
-m.youtube.com##ytm-promoted-video-renderer
-m.youtube.com##ytm-companion-ad-renderer
-m.youtube.com##ytm-rich-item-renderer:has(ytm-display-ad-renderer)
-
-! Remove sponsored labels
-youtube.com##span:has-text(Sponsored)
-youtube.com##span:has-text(Advertentie)
-youtube.com##span:has-text(Ad)
-
 ! =========================
 ! 🚫 YOUTUBE ADS BLOCK
 ! =========================
@@ -69,6 +16,9 @@ youtube.com##span:has-text(Ad)
 ||/youtube.com/ptracking.*/^
 ||/youtube.com/youtubei/v1/player/ad_break.*/^
 ||/youtubei.googleapis.com/youtubei/v1/player/ad_break.*/^
+||/adservice.google.com.*/^
+||/adservice.google.nl.*/^
+||/ads.youtube.com.*/^
 
 ! Blokkeer advertentie video streams
 ||/googlevideo.com/videoplayback*adformat=.*/^
