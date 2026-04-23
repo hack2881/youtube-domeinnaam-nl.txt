@@ -3,34 +3,6 @@
 ! Author: Custom setup
 ! Updated: 2026
 
-! =========================
-! 🚫 YOUTUBE ADS BLOCK
-! =========================
-/ad.doubleclick.net.*/
-/play.googleapis.com.*/
-/googleads.g.doubleclick.net.*/
-/pagead2.googlesyndication.com.*/
-/youtube.com/pagead.*/
-/youtube.com/api/stats/ads.*/
-/youtube.com/get_midroll_.*/
-/youtube.com/ptracking.*/
-/youtube.com/youtubei/v1/player/ad_break.*/
-/youtubei.googleapis.com/youtubei/v1/player/ad_break.*/
-/adservice.google.com.*/
-/adservice.google.nl.*/
-/ads.youtube.com.*/
-
-! Blokkeer advertentie video streams
-/googlevideo.com/videoplayback*adformat=.*/
-/googlevideo.com/videoplayback*oad=.*/
-
-! =========================
-! ⚡ EXTRA TRACKING BLOCK
-! =========================
-/youtube.com/api/stats/qoe?.*/
-/youtube.com/generate_204.*/
-/youtube.com/pagead/interaction.*/
-
 /rr1---sn-u15hn5-5v.googlevideo.com.*/
 =========================================
 /rr1---sn-aj4g55-5w.googlevideo.com.*/
