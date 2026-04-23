@@ -6,20 +6,20 @@
 ! =========================
 ! 🚫 YOUTUBE ADS BLOCK
 ! =========================
-||doubleclick.net^
+/doubleclick.net.*/
 /play.googleapis.com.*/
-||googleads.g.doubleclick.net^
-||pagead2.googlesyndication.com^
+/googleads.g.doubleclick.net.*/
+/pagead2.googlesyndication.com.*/
 |youtube.com/pagead^
 /youtube.com/api/stats/ads.*/
 |youtube.com/get_midroll_*
-|youtube.com/ptracking^
-|youtube.com/youtubei/v1/player/ad_break^
-||youtubei.googleapis.com/youtubei/v1/player/ad_break^
+/youtube.com/ptracking.*/
+/youtube.com/youtubei/v1/player/ad_break.*/
+/youtubei.googleapis.com/youtubei/v1/player/ad_break.*/
 
 ! Blokkeer advertentie video streams
-||googlevideo.com/videoplayback*adformat=*
-||googlevideo.com/videoplayback*oad=*
+/googlevideo.com/videoplayback*adformat=.*/
+/googlevideo.com/videoplayback*oad=.*/
 
 ! =========================
 ! ⚡ EXTRA TRACKING BLOCK
