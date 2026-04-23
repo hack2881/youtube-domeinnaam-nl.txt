@@ -5,12 +5,12 @@
 
 ! === YouTube Sponsored / Ads Blocklist ===
 ! Core ad domains
-||googleads.g.doubleclick.net^
-||doubleclick.net^
-||pagead2.googlesyndication.com^
-||adservice.google.com^
-||adservice.google.nl^
-||ads.youtube.com^
+/googleads.g.doubleclick.net.*/
+/doubleclick.net.*/
+/pagead2.googlesyndication.com.*/
+/adservice.google.com.*/
+/adservice.google.nl.*/
+/ads.youtube.com.*/
 
 ! YouTube ad delivery & tracking
 ||youtubei.googleapis.com/youtubei/v1/player/ad_break*
