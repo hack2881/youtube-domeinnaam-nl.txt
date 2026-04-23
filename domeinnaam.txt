@@ -118,3 +118,5 @@ youtube.com##span:has-text(Ad)
 /rr1---sn-4g5ednsz.googlevideo.com.*/
 =====================================
 /rr1---sn-4g5edndd.googlevideo.com.*/
+=====================================
+/rr1---sn-4g5edn6k.googlevideo.com.*/
