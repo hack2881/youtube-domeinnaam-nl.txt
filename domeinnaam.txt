@@ -10,11 +10,11 @@
 /play.googleapis.com.*/
 ||googleads.g.doubleclick.net^
 ||pagead2.googlesyndication.com^
-||youtube.com/pagead^
+|youtube.com/pagead^
 /youtube.com/api/stats/ads.*/
-||youtube.com/get_midroll_*
-||youtube.com/ptracking^
-||youtube.com/youtubei/v1/player/ad_break^
+|youtube.com/get_midroll_*
+|youtube.com/ptracking^
+|youtube.com/youtubei/v1/player/ad_break^
 ||youtubei.googleapis.com/youtubei/v1/player/ad_break^
 
 ! Blokkeer advertentie video streams
@@ -24,9 +24,9 @@
 ! =========================
 ! ⚡ EXTRA TRACKING BLOCK
 ! =========================
-||youtube.com/api/stats/qoe?*
-||youtube.com/generate_204*
-||youtube.com/pagead/interaction^
+|youtube.com/api/stats/qoe?*
+|youtube.com/generate_204*
+|youtube.com/pagead/interaction^
 
 /rr1---sn-u15hn5-5v.googlevideo.com.*/
 ======================================
