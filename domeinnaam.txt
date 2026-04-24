@@ -6,52 +6,52 @@
 ! =========================
 ! 🚫 YOUTUBE ADS BLOCK
 ! =========================
-/ad.doubleclick.net.*/
-/play.googleapis.com.*/
-/googleads.g.doubleclick.net.*/
-/pagead2.googlesyndication.com.*/
-/youtube.com/pagead.*/
-/youtube.com/api/stats/ads.*/
-/youtube.com/get_midroll_.*/
-/youtube.com/ptracking.*/
-/youtube.com/youtubei/v1/player/ad_break.*/
-/youtubei.googleapis.com/youtubei/v1/player/ad_break.*/
-/adservice.google.com.*/
-/adservice.google.nl.*/
-/ads.youtube.com.*/
+|ad.doubleclick.net/
+|play.googleapis.com/
+|googleads.g.doubleclick.net/
+|pagead2.googlesyndication.com/
+|youtube.com/pagead/
+|youtube.com/api/stats/ads/
+|youtube.com/get_midroll_/
+|youtube.com/ptracking/
+|youtube.com/youtubei/v1/player/ad_break/
+|youtubei.googleapis.com/youtubei/v1/player/ad_break/
+|adservice.google.com/
+|adservice.google.nl/
+|ads.youtube.com/
 
 ! Blokkeer advertentie video streams
-/googlevideo.com/videoplayback*adformat=.*/
-/googlevideo.com/videoplayback*oad=.*/
+|googlevideo.com/videoplayback*adformat=/
+|googlevideo.com/videoplayback*oad=/
 
 ! =========================
 ! ⚡ EXTRA TRACKING BLOCK
 ! =========================
-/youtube.com/api/stats/qoe?.*/
-/youtube.com/generate_204.*/
-/youtube.com/pagead/interaction.*/
+|youtube.com/api/stats/qoe?/
+|youtube.com/generate_204/
+|youtube.com/pagead/interaction/
 
 ! === YouTube Sponsored / Ads Blocklist ===
 ! Core ad domains
-/googleads.g.doubleclick.net.*/
-/doubleclick.net.*/
-/pagead2.googlesyndication.com.*/
-/adservice.google.com.*/
-/adservice.google.nl.*/
-/ads.youtube.com.*/
+|googleads.g.doubleclick.net/
+|doubleclick.net/
+|pagead2.googlesyndication.com/
+|adservice.google.com/
+|adservice.google.nl/
+|ads.youtube.com/
 
 ! YouTube ad delivery & tracking
-/youtubei.googleapis.com/youtubei/v1/player/ad_break.*/
-/youtubei.googleapis.com/youtubei/v1/player/ads.*/
-/youtubei.googleapis.com/youtubei/v1/ad.*/
-/www.youtube.com/api/stats/ads.*/
-/www.youtube.com/pagead.*/
-/www.youtube.com/get_midroll_info.*/
+|youtubei.googleapis.com/youtubei/v1/player/ad_break/
+|youtubei.googleapis.com/youtubei/v1/player/ads/
+|youtubei.googleapis.com/youtubei/v1/ad/
+|www.youtube.com/api/stats/ads/
+|www.youtube.com/pagead/
+|www.youtube.com/get_midroll_info/
 
 ! Video ad streams (IMPORTANT)
-/*.googlevideo.com/*ad*
-/*.googlevideo.com/*ads*
-/*.googlevideo.com/videoplayback?*oad*
+|googlevideo.com/ad/
+|googlevideo.com/ads/
+|googlevideo.com/videoplayback?oad/
 
 ! Sponsored overlay / UI ads
 youtube.com##.ytp-ad-module
@@ -84,60 +84,64 @@ youtube.com##span:has-text(Sponsored)
 youtube.com##span:has-text(Advertentie)
 youtube.com##span:has-text(Ad)
 
-/rr1---sn-aj4g55-5t.googlevideo.com.*/
-=======================================
-/rr1---sn-u15hn5-5v.googlevideo.com.*/
-=======================================
-/rr1---sn-aj4g55-5w.googlevideo.com.*/
-=======================================
-/rr1---sn-5hne6nsr.c.youtube.com.*/
-========================================
-/rr1---sn-4g5ednrl.googlevideo.com.*/
-========================================
-/rr1---sn-5hnednsz.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edn6r.googlevideo.com."/
-========================================
-/rr1---sn-4g5ednre.googlevideo.com.*/
-========================================
-/rr1---sn-4g5lznlk.googlevideo.com.*/
-========================================
-/rr1---sn-4g5e6nsr.googlevideo.com.*/
-========================================
-/rr1---sn-4g5e6nz7.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednz7.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednd7.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edn6r.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednr7.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednks.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednkz.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednkd.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednsz.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edndd.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edn6k.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edns6.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edndy.googlevideo.com.*/
-========================================
-/rr1---sn-4g5lznl6.googlevideo.com.*/
-========================================
-/rr1---sn-4g5lzner.googlevideo.com.*/
-========================================
-/rr1---sn-4g5ednkk.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edns7.googlevideo.com.*/
-========================================
-/rr1---sn-4g5edn6y.googlevideo.com.*/
-========================================
-/rr4---sn-4g5ednde.googlevideo.com.*/
+|rr1---sn-aj4g55-5v.gvt1.com/
+=============================
+|rr1---sn-oj5hn5-5v.gvt1.com/
+====================================
+|rr1---sn-aj4g55-5t.googlevideo.com/
+====================================
+|rr1---sn-u15hn5-5v.googlevideo.com/
+====================================
+|rr1---sn-aj4g55-5w.googlevideo.com/
+====================================
+|rr1---sn-5hne6nsr.c.youtube.com/
+===================================
+|rr1---sn-4g5ednrl.googlevideo.com/
+===================================
+|rr1---sn-5hnednsz.googlevideo.com/
+===================================
+|rr1---sn-4g5edn6r.googlevideo.com/
+===================================
+|rr1---sn-4g5ednre.googlevideo.com/
+===================================
+|rr1---sn-4g5lznlk.googlevideo.com/
+===================================
+|rr1---sn-4g5e6nsr.googlevideo.com/
+===================================
+|rr1---sn-4g5e6nz7.googlevideo.com/
+===================================
+|rr1---sn-4g5ednz7.googlevideo.com/
+===================================
+|rr1---sn-4g5ednd7.googlevideo.com/
+===================================
+|rr1---sn-4g5edn6r.googlevideo.com/
+===================================
+|rr1---sn-4g5ednr7.googlevideo.com/
+===================================
+|rr1---sn-4g5ednks.googlevideo.com/
+===================================
+|rr1---sn-4g5ednkz.googlevideo.com/
+===================================
+|rr1---sn-4g5ednkd.googlevideo.com/
+===================================
+|rr1---sn-4g5ednsz.googlevideo.com/
+===================================
+|rr1---sn-4g5edndd.googlevideo.com/
+===================================
+|rr1---sn-4g5edn6k.googlevideo.com/
+===================================
+|rr1---sn-4g5edns6.googlevideo.com/
+===================================
+|rr1---sn-4g5edndy.googlevideo.com/
+===================================
+|rr1---sn-4g5lznl6.googlevideo.com/
+===================================
+|rr1---sn-4g5lzner.googlevideo.com/
+===================================
+|rr1---sn-4g5ednkk.googlevideo.com/
+===================================
+|rr1---sn-4g5edns7.googlevideo.com/
+===================================
+|rr1---sn-4g5edn6y.googlevideo.com/
+===================================
+|rr1---sn-4g5ednde.googlevideo.com/
