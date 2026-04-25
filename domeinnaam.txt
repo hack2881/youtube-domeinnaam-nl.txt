@@ -86,10 +86,15 @@ youtube.com##span:has-text(Sponsored)
 youtube.com##span:has-text(Advertentie)
 youtube.com##span:has-text(Ad)
 
+! =========================
+! 🚫ADS Domain=Youtube.com
+! =========================
+
 ||bol.com^$domain=youtube.com
 ==============================
 ||kpn.com^$domain=youtube.com
 ==============================
+
 ||rr1---sn-aj4g55-5v.gvt1.com^
 =============================
 ||rr1---sn-oj5hn5-5v.gvt1.com^
