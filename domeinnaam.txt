@@ -6,6 +6,7 @@
 ! =========================
 ! 🚫 YOUTUBE ADS BLOCK
 ! =========================
+
 ||ad.doubleclick.net^
 ||play.googleapis.com^
 ||googleads.g.doubleclick.net^
@@ -27,6 +28,7 @@
 ! =========================
 ! ⚡ EXTRA TRACKING BLOCK
 ! =========================
+
 ||youtube.com/api/stats/qoe?^
 ||youtube.com/generate_204^
 ||youtube.com/pagead/interaction^
