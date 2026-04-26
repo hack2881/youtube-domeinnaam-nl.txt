@@ -110,6 +110,8 @@ youtube.com##span:has-text(Ad)
 ====================================
 ||rr1---sn-5hne6nsr.c.youtube.com^
 ===================================
+||rr5---sn-4g5lzney.c.youtube.com^
+===================================
 ||rr1---sn-4g5ednrl.googlevideo.com^
 ===================================
 ||rr1---sn-5hnednsz.googlevideo.com^
