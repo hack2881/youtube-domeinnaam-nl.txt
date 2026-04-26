@@ -98,6 +98,7 @@ youtube.com##span:has-text(Ad)
 ||Disney.com^$domain=youtube.com
 ||dolce-gusto.nl^$domain=youtube.com
 ||taongafarm.com^$domain=youtube.com
+||hero-wars.com^$domain=youtube.com
 ==============================
 
 ||rr1---sn-aj4g55-5v.gvt1.com^
