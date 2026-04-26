@@ -93,6 +93,8 @@ youtube.com##span:has-text(Ad)
 ||laroche-posay.nl^$domain=youtube.com
 ||base44.com^$domain=youtube.com
 ||kpn.com^$domain=youtube.com
+||lucidchart.com^$domain=youtube.com
+||ing.nl^$domain=youtube.com
 ==============================
 
 ||rr1---sn-aj4g55-5v.gvt1.com^
