@@ -90,7 +90,7 @@ youtube.com##span:has-text(Ad)
 ! 🚫 Domain=Youtube.com
 ! =========================
 ||bol.com^$domain=youtube.com
-==============================
+
 ||kpn.com^$domain=youtube.com
 ==============================
 
