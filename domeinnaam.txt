@@ -95,6 +95,7 @@ youtube.com##span:has-text(Ad)
 ||kpn.com^$domain=youtube.com
 ||lucidchart.com^$domain=youtube.com
 ||ing.nl^$domain=youtube.com
+||Disney.com^$domain=youtube.com
 ==============================
 
 ||rr1---sn-aj4g55-5v.gvt1.com^
