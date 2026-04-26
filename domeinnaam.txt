@@ -96,6 +96,8 @@ youtube.com##span:has-text(Ad)
 ||lucidchart.com^$domain=youtube.com
 ||ing.nl^$domain=youtube.com
 ||Disney.com^$domain=youtube.com
+||dolce-gusto.nl^$domain=youtube.com
+||taongafarm.com^$domain=youtube.com
 ==============================
 
 ||rr1---sn-aj4g55-5v.gvt1.com^
